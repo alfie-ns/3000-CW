@@ -1,0 +1,745 @@
+Amir-meeting-1
+
+Transcript
+
+Speaker 1:
+
+00:03 But if you're not comfortable, we need to.
+
+Speaker 2:
+
+00:25 It.
+
+Speaker 1:
+
+01:07 So how will you find the important part?
+
+Speaker 2:
+
+01:12 Just. But like Jeff will. So the Jev stuff is that's like going to rank. Sorry, that's just going to like rank it. Like rank the chunks. But so it will probably just. So I don't know if it should just be one video. I think it'll be multiple. You'll get like multiple. What's the word? Like similar. Similar videos. And then based on like literally the words said in what the user's asking, it will just find like related stuff within each of the videos that answers a question.
+
+01:58 And because the first one all it was is just paste in YouTube link and then just ask.
+
+02:06 And just ask about. Just ask a question about the video. But I think this one will just like get multiple videos in one and instead of just pumping one video and also like through.
+
+02:24 So what was the question?
+
+Speaker 1:
+
+02:25 So how you will understand that this part is important for any video.
+
+02:29 I should care for it.
+
+Speaker 2:
+
+02:31 Yeah, if it's just like related. Just related to what they're talking about.
+
+Speaker 1:
+
+02:35 But if for example I can. And how you. Because all the video. Like if. Let's say I'm giving a talk, for example. So how you will summarize the talk into for example few or shorter time.
+
+Speaker 2:
+
+02:47 They're like argument. I forgot the word. But it's like the three worded like argumentative.
+
+02:57 So I haven't thought about like the actual like the code that's going to make it work yet.
+
+03:01 But it's just. It was just basically it just related stuff in the video that's related to what they're asking about and even like the words.
+
+03:18 So yeah, just like the words they're talking about.
+
+03:21 It's just if the words are talking about is related to parts of that video.
+
+Speaker 1:
+
+03:28 Can you elaborate first?
+
+Speaker 2:
+
+03:30 Sorry.
+
+Speaker 1:
+
+03:31 So for example, let's say I give a talk this talk two hours and you don't want to listen to the recording.
+
+03:38 So you'd like to summarize it how you summarize how.
+
+03:42 Which are the most important parts that you will define.
+
+03:44 If you are making it manually, you will see. Okay, for example, I will take this part because you speak about something important here.
+
+03:51 There is for example some noise people speaking.
+
+03:53 I will disregard this. Or for example here there is breaks. I will avoid this. And among the parts that I'm speaking continuously about, let's say machine learning the say okay, like this part is important.
+
+04:05 This part is not important. You can attribute this yourself as a human. Now when we come to the machine that will do this, machine learning model that will do this, how it will be done.
+
+04:16 This is still not clear to me.
+
+Speaker 2:
+
+04:18 Or you just have to read the whole transcript and.
+
+04:20 But then pick parts of that out of the transcript that is related to what the question they're asking.
+
+04:27 So like say if you give a two hour long lecture about something and trying to think of an example like just so you give it like a two hour long video, I mean two hour long lecture and then it'll read the whole lecture and then.
+
+04:48 Oh God, sorry, can you just ask that again please?
+
+Speaker 1:
+
+04:50 Yes. So let's say I'm having the video and you're, you're, you're.
+
+04:55 You told me that your project aims like instead of having a very long video and following a very long video.
+
+Speaker 2:
+
+05:03 Yeah. So just read the whole transcript and then find parts of the transcript that is relevant.
+
+05:08 Relevant.
+
+Speaker 1:
+
+05:09 Good. And now in order to do this, find the parts that are relevant.
+
+05:13 You said we will score.
+
+Speaker 2:
+
+05:15 Yeah.
+
+Speaker 1:
+
+05:16 Based on which, on what? This scoring will happen.
+
+Speaker 2:
+
+05:19 This using this site called jev and it's this new type of AI which is like.
+
+05:25 So not like a. It's still actually quite confusing for me to like understand this.
+
+05:30 It's like it kind of just ranks. It just ranks parts that give like a higher score to parts that is more relevant, a less lower score to parts that are less relevant and the stuff with the highest score is more relevant.
+
+Speaker 1:
+
+05:44 And yeah, yeah, this is very easy. Understandable. Now that key question for all this research, health scoring will be done.
+
+05:53 So for example, if I'm speaking about several things in the scoring, you'll find that I'm speaking about in the.
+
+05:58 Sorry. In the transcripting I'm speaking about, e.g. Logistic regression, classification, clustering, many things.
+
+06:05 Okay, now which part your algorithm will be scoring high and based or not?
+
+06:10 This is a key question.
+
+Speaker 2:
+
+06:12 The words that like is the words that are relevant to the question.
+
+Speaker 1:
+
+06:16 Which question? What's the question?
+
+Speaker 2:
+
+06:17 The question that the user is asking about the video essentially.
+
+06:21 Like maybe they might, I don't know if they ask. Yeah, okay.
+
+Speaker 1:
+
+06:24 Okay, okay, okay. The person will ask a question. So it depends on. Okay, a person asking a question. Okay, the person asking us classification. So I'm asking about classification. So you will gather all the shots from the videos that are about classification?
+
+06:43 Yeah, something like that. And what if the video is all about classification?
+
+Speaker 2:
+
+06:47 If the video is all about classification, then probably like the, then like the bits within it that is most relevant to literally the words that they're saying.
+
+07:00 So if they're asking a part like a certain question about it, then the stuff in the video that's more relevant to that specific question instead of the whole.
+
+07:11 What's the word? Like the whole. The whole, not sect.
+
+Speaker 1:
+
+07:22 I think, I think the problem. If there are discrete topics, it's easy if there is like separate topics, but if there are uni like united topics, it will be difficult.
+
+Speaker 2:
+
+07:32 What's topic? Sorry?
+
+Speaker 1:
+
+07:33 If I'm speaking about all the time. Classification, for example, I need to know about for example, classification.
+
+07:38 You will give me the whole video. Because like if I'm speaking only about classification, you give me the whole video.
+
+07:43 Now you're supporting the person to say I need to know this algorithm about classification, for example.
+
+Speaker 2:
+
+07:49 Yes. If they ask about a certain algorithm, then. Sorry, go on.
+
+Speaker 1:
+
+07:53 Yeah, algorithm, then it can work. You say I will go and search this algorithm and try to extract it.
+
+08:00 But the point is, My point is can't the user process.
+
+Speaker 2:
+
+08:05 Yeah, but it'll take them more time. And that's the thing. It's like instead of watching, instead of having to do it all themselves, the air will just do it much faster.
+
+Speaker 1:
+
+08:13 Are you sure? Like faster than if I. Because like if I'm looking at. If you suppose that the transcript will be available to the machine.
+
+08:21 Okay. And will be available to the human. The human can look, for example, whereas I can make control C, control F. I can find KN the same way that the algorithm will be looking for keyword and I can find which minute it appeared in the transcript.
+
+08:35 You know? Yeah, just ctrl C control F up detect the word kn appeared in the minute 90, 39.
+
+08:41 So while you are processing, I understand that in my 9:30 minute 9:39 and minute 39 and up, I will move the cursor of the video and go to minute 39 and I will achieve the same task in the same time.
+
+Speaker 2:
+
+08:54 Oh yeah, but like they wouldn't have to do that because just it just make it easier.
+
+08:59 But it's just easiest faster and just, just necessarily faster.
+
+Speaker 1:
+
+09:03 But probably easier. Yeah, not necessarily faster.
+
+Speaker 2:
+
+09:06 I mean it would easier. So the thing is like with this first one I've done in 2023, literally instead of watching the whole video, just you get.
+
+09:16 The AI watches it and like how long it. Because it takes now it's fast. It will probably, probably watch the whole. Probably watch like a two hour long video which the user would have to like, like you said, go through the video, find the parts.
+
+09:29 But it'd watch that like two hour long video in like ten seconds or something.
+
+09:32 And Answer that specific question. Instead of them having to do it themselves. I'm trying to find the word, but it's like they just.
+
+09:40 Instead of having to. Instead of them having to do it themselves, it's just.
+
+09:44 It does it for them, basically.
+
+Speaker 1:
+
+09:46 Let's suppose like, for example, situation where the transcript is not available.
+
+09:50 So what will happen? Your system will read the whole video. Yeah. So I will say, for example, I need a system. I need to know about K N. So your AI system will read the whole video to extract the audio language and video.
+
+10:04 And we get the transcript this way. And. Because the transcript is not.
+
+Speaker 2:
+
+10:08 Yeah, I mean, it doesn't need the transcript. With the like new Gemini models, it can actually listen to it.
+
+10:14 Literally listen to. Yeah, yeah, yeah.
+
+Speaker 1:
+
+10:16 I mean, it doesn't need. It will just extract it by itself. But reading the video is fast.
+
+Speaker 2:
+
+10:23 Reading the video, you mean like, for.
+
+Speaker 1:
+
+10:25 Example, if I give two hours, you need the AI system to read it, how long the time it will take to read it?
+
+10:32 Two hours. Like, it's a very huge video.
+
+Speaker 2:
+
+10:34 Yeah, no, AI when I did this 23, when it was slower, AI still watched a lot, still watch the whole video, still read the whole transcript much faster.
+
+Speaker 1:
+
+10:42 But it will take probably a few minutes. So you will need probably very fast, very, very, very fast machine to be able to read it reasonably.
+
+10:51 Because if it will take 10 minutes and a human could have within 10 minutes, for example, found what he's searching.
+
+10:57 So I like the probably restriction that you have in the project is that it should be implemented in very, very, very fast server, for example.
+
+Speaker 2:
+
+11:06 Yeah. And they said this. Yeah.
+
+Speaker 1:
+
+11:09 So not a normal machine, so that the machine can read quickly, very quickly, and then not make the person bored and then could identify which is a part.
+
+11:22 Interesting part.
+
+Speaker 2:
+
+11:23 Yeah. Like what is the intriguing part to that question?
+
+Speaker 1:
+
+11:25 Yeah, so it depends on the speed of the. So you have one restriction here is the speed of the servers that you are using.
+
+11:35 You need some very really high, high. Like a high, fast, fast server to do the read. Okay, okay, okay.
+
+Speaker 2:
+
+11:46 So.
+
+Speaker 1:
+
+11:47 And how you will implement your implementers in the form of application or.
+
+Speaker 2:
+
+11:51 Yeah, so that's how I was actually gonna ask you. Do you think I should make it? I don't know what to do. I don't know if I should do like an iOS app, Android app, or just a thing that works.
+
+12:00 Like, because, you know, you can like have those websites where you can like download to your phone as an app kind of.
+
+12:05 Or maybe if you'd like to make.
+
+Speaker 1:
+
+12:08 A web app, web website or. Yeah, as mobile app, it's fine.
+
+Speaker 2:
+
+12:14 Yeah, so, so I was probably. Probably the best thing to do is make it as like a website that they can download it to their phone as not download it but like get it to their phone as a website slash app thing and then, then they can still do it on their computer as well with this website.
+
+12:30 Yeah,.
+
+Speaker 1:
+
+12:32 Okay.
+
+Speaker 2:
+
+12:33 Yeah. And I don't know, I. I don't know, I don't think it's good.
+
+12:36 I don't know. I don't know. I was thinking like how could it be like can I make this out kind of like without like a robot, like robotic somehow?
+
+Speaker 1:
+
+12:44 But yeah, but I think, yeah, like, yeah, with understanding what you are doing, I think just to use a constraint, a bigger constraint, you have the hardware.
+
+12:55 But as you are aware of this hardware, you know, issue because as I said, you have to try yourself, for example, you find that even with a video to two hours, you are getting 10 minutes, for example to get the summary summarization of the video.
+
+13:10 Then it might be, you know, like.
+
+Speaker 2:
+
+13:15 Yeah, it's just like look, it is, it is fast. It is definitely under a minute. 100% under, under do it under a minute. And that's just with like anyone's computer. I mean I guess if I should I make it like a. Like my own. Yeah, just my own. Like a.
+
+Speaker 1:
+
+13:45 AS application. As application, yeah. I said this can be last year project. As long as you are aware of the. As I said, it's a challenge of software as a kind of hardware.
+
+13:57 You are. And I think, yeah, like away from this you have to make sure that you are using GitHub the same the things that I was telling to colleagues, make sure when you are coding, you are not coding on your machine because like at the end there will be.
+
+14:13 There's also same for you. Yeah, but we have to use software testing, software development and testing very well.
+
+14:20 So we should be using Git environment. Even if you're.
+
+Speaker 2:
+
+14:23 Yeah, I do use GitHub quite a bit. Yeah, I would like to.
+
+Speaker 1:
+
+14:29 GitHub. What. What's the purpose of GitHub?
+
+Speaker 2:
+
+14:31 Just like. So you push it all to a global thing which anyone can pull to their own local thing.
+
+Speaker 1:
+
+14:38 Okay.
+
+Speaker 2:
+
+14:38 But you make changes to it when you develop. That's for developing stuff. You're developing it, you make changes, put it to the global origin and then the next, the next person can pull it to their own local origin.
+
+Speaker 1:
+
+14:50 But if you are by yourself. So is it equal by yourself to use GitHub or not GitHub?
+
+14:55 Is it useful Anymore if you are by yourself?
+
+Speaker 2:
+
+14:58 Well, I don't know. I think. But wouldn't they. Wouldn't markers prefer that? Because I, I could show. Instead of doing it, instead of like doing a, like a huge commit, I would do like little concise like ins.
+
+15:12 In. What's the word? Just little commit. So I'll just. Well, I don't know. Surely they would want us to make it with GitHub to show how we've developed it and made it and everything.
+
+Speaker 1:
+
+15:23 Yeah, but because this is one of the question killing questions that we always ask students.
+
+15:29 So I'm saying it here again like if you are thinking all about code and the push and sharing code, what is the difference between GitHub and for example Google Drive OneDrive?
+
+15:45 If it's about sharing code with somebody, you can share the code over there and if it's by yourself, then you are not sharing the code with anyone.
+
+15:54 So what is the difference between GitHub and other.
+
+15:58 Just one driver or why you would be using it? What's the reason for this?
+
+Speaker 2:
+
+16:06 What's the reason to use GitHub?
+
+Speaker 1:
+
+16:08 Yes.
+
+Speaker 2:
+
+16:09 For what? For why Developer?
+
+Speaker 1:
+
+16:11 For developing your project even if by yourself.
+
+16:13 You are by yourself. Is there a reason.
+
+Speaker 2:
+
+16:17 We have to use. We have to use GitHub, right?
+
+Speaker 1:
+
+16:21 Yeah, we have to use. Is there a reason to use GitHub?
+
+Speaker 2:
+
+16:26 Yeah, just. Sorry, I just don't really understand what you mean.
+
+16:30 Like.
+
+Speaker 1:
+
+16:30 Yeah, but if, for example, I tell you instead of if it's about.
+
+16:34 If you say I use GitHub for good sharing. Okay, you can use Google Drive. So you're saying you can, can you say by the time that they are that equal, would you still.
+
+16:46 Would they become equal if you just come to code sharing argument for what here in.
+
+16:52 Sorry, using GitHub for code sharing only. Like I just would like to understand from you the code code why you are using GitHub.
+
+17:00 That's my question. Why do we use GitHub? Is it for code sharing or is it for something.
+
+Speaker 2:
+
+17:05 Oh, code sharing. Yeah, I mean I'm. I'm just thinking we have to make it to show how we've like developed it and just, and also just anyone can.
+
+17:16 I mean not anyone, but if it's private, not anyone.
+
+17:18 But I mean it's also for. It's also good for like multiple people working on it at once.
+
+Speaker 1:
+
+17:24 But if there is one person. So yeah, I'm giving you specific case one person and you don't have anyone to share the code with.
+
+17:32 So is it useless that we say use GitHub or still having some advantage.
+
+Speaker 2:
+
+17:40 I've never really thought about it like that. It's just like GitHub is just. I've used GitHub, I just. GitHub. I just thought like it's just best.
+
+Speaker 1:
+
+17:48 To continuous integration and continuous development and version control.
+
+Speaker 2:
+
+17:52 Yeah, yeah, version control. That's the word I was.
+
+Speaker 1:
+
+17:55 Yeah, continuous into. Why? Because like continuous integration, continuous development.
+
+17:59 If you made for example, the answer that we always expect if I made a change of one line.
+
+18:03 Okay, let's say it's this function and this, for example, this function depends on or like some other functions depend on it.
+
+18:11 So if I continue making changes, changes and then after one hour I discover that I damage to the system and it doesn't.
+
+Speaker 2:
+
+18:18 Oh yeah, like get reset.
+
+Speaker 1:
+
+18:20 So. No, no, not reset. After you make one change, it compiles automatically.
+
+18:26 Okay, so if for example, you made a change, you changed the letter A to E and then the compilation is giving an error, then you understand that this is a change that made.
+
+Speaker 2:
+
+18:35 Yeah, this is the commit that's wrong.
+
+Speaker 1:
+
+18:37 That is a change that you have made and then you have to check it EFI you will check it faster than trying to make for example 1000 line and you don't understand what was the problem coming from?
+
+18:48 Where is the problem coming from? So this is for GitHub. So please remember this is all general for both of you.
+
+18:55 Remember software development and when you are developing, remember software testing.
+
+19:00 Are you aware of software development testing and software testing make unit testing, make integration testing, all these testing may aware of.
+
+19:11 If you are making a product, you are expected at the end to make away from the software testing side to make a user testing if available.
+
+19:19 That's why ideally if you will produce a product, it's expected or advised that your product will be ready by March or something so that it can go to be tested with people so that you can for example have 15, 20% and you start making a survey and asking them about their preference and for example, do they like it, do they like it?
+
+19:42 Etc. Yeah, so also GitHub for the commits in the interviews on the, in the, in the panel and the via we always ask students to open GitHub and we ask them go to commits to see how many times you commit.
+
+19:57 So somebody who is committing only two or three times before the viva.
+
+20:02 This doesn't make any sense. It means like the person is working on his Hero PC offline without giving attention to using GitHub for development from the beginning.
+
+Speaker 2:
+
+20:12 Yeah, no, I, I really use GitHub all my repos I've got like a thousand commits.
+
+Speaker 1:
+
+20:17 Yeah, great, great. So that's, you know, that's what general remark is.
+
+20:21 They always say commit and use GitHub from the early development.
+
+20:25 This is something we will see and this is something we appreciate in the market.
+
+Speaker 2:
+
+20:29 Yeah, yeah.
+
+Speaker 1:
+
+20:30 Okay. So. Okay, that's fine. What you are describing makes a project and. Yeah, like within the context you explained, I think it's fine.
+
+Speaker 2:
+
+20:40 Cool. So you, so you want, you want us to be testing it by March?
+
+Speaker 1:
+
+20:46 No, I'm. I'm saying like. Yeah, that might not be the deadline. I speak about the deadline you have to submit it in I think early May.
+
+20:55 So probably end of March or, or beginning of April.
+
+20:58 You have to make probably if you count to ask people to evaluate it.
+
+21:02 Some people don't make user based decision. Some people don't make. So just as I say we made some unit testing, integration testing and that's all and that's fine.
+
+Speaker 2:
+
+21:10 Yeah.
+
+Speaker 1:
+
+21:10 But somebody will say I also made user evaluation and they get higher.
+
+21:15 So.
+
+Speaker 2:
+
+21:15 Yeah, yeah.
+
+Speaker 1:
+
+21:16 You know, so if you'd like to make that kind of.
+
+Speaker 2:
+
+21:18 What you mean by like research project.
+
+Speaker 1:
+
+21:20 No, no, no, no.
+
+Speaker 2:
+
+21:22 It's like. No, because I mean it's like something that's not really like, not really a thing.
+
+21:27 It's like you're kind of talking, you're kind of, you're testing it with people as like you're getting like.
+
+21:33 As it's like a. Just like a new thing.
+
+Speaker 1:
+
+21:36 Yeah, but it's not. This is still industrial project, so you'd be evaluated as industrial one, not research.
+
+21:43 So for the research one you don't need to do all this.
+
+21:46 But the research. If you make a research based one, your evaluation should be really made as a research.
+
+21:52 It means like you should have evaluated the system as a research paper versus as a literature as a research paper.
+
+21:59 So it is something we're really critical and very minority do it actually to be honest in comparison.
+
+22:07 So I, what I see from what you're saying is like. Will be industrial projects that will evaluate in software development and with people and that's.
+
+22:15 That's it. I would say. Yeah.
+
+Speaker 2:
+
+22:18 So what do you mean by so like how would it be like a. I thought, I thought by research projects it'd be like kind of like something not like innovative but it's like something that's not really.
+
+22:28 You're not talking about it like it's a definite, a definite thing.
+
+22:32 You're talking about it like kind of like no one really knows.
+
+Speaker 1:
+
+22:36 I thought that's what you mean. Like you.
+
+Speaker 2:
+
+22:39 So it's like research, you're like researching it.
+
+22:41 Like no one, no, no one really has the answer. It's like you're researching it in like a. In a way that like you don't really. You don't. You start a new thing that you're kind of talking about.
+
+Speaker 1:
+
+22:54 So what's the question is.
+
+Speaker 2:
+
+22:56 So is that. I'm just asking like. I'm just asking about what you really mean by research project.
+
+Speaker 1:
+
+23:00 Not research project is like I will try to tell you.
+
+23:03 Okay, let's for example try to discover for example the influence of multimodal information on discovering a fake.
+
+23:12 On fake detection.
+
+Speaker 2:
+
+23:13 Yeah, yeah. So it's like.
+
+Speaker 1:
+
+23:13 Yeah, yeah, yeah, yeah. It's a different story.
+
+Speaker 2:
+
+23:16 That sounds like a new thing.
+
+Speaker 1:
+
+23:17 And machine learning, for example, for. For example autism diagnosis or for whichever disease detection or stuff like this.
+
+23:25 And then we make really analysis. We use data set from research and we make evaluations.
+
+Speaker 2:
+
+23:30 So I was the reason. I was honestly thinking. So the. The way this be like research is like talking about like how this like consuming information with AI and how like no one really knows.
+
+23:46 It's kind of like a new thing. That's. Yeah, it's just. I thought re. By research is just like you're researching into the whole.
+
+24:03 How the whole like civilization kind of does it.
+
+Speaker 1:
+
+24:05 Yeah, it is. This is typical in product based one, industrial one.
+
+24:10 This not research in the sense, but you can do informal research for yourself.
+
+24:15 Like to know for example, what is the current existing.
+
+24:17 For example.
+
+Speaker 2:
+
+24:18 Yeah, but that's what I'm gonna do in the report. I'll write it like how it's different how it like compares how people do it as well.
+
+Speaker 1:
+
+24:24 It will be still evaluated against. You know, for example, if you are making, if you are making a research paper.
+
+24:31 So software testing will not be important because we understand you are not making software testing.
+
+24:36 But in your case this is not the research industrial project which is a majority of people doing.
+
+24:41 So you'll be evaluated like normal. You need to make software testing. You may need to make user testing and so on and so forth.
+
+24:47 If you'll make a website because website needs evaluation.
+
+Speaker 2:
+
+24:52 So.
+
+Speaker 1:
+
+24:55 Which means that you cannot make a paper of this.
+
+Speaker 2:
+
+25:00 Unless.
+
+Speaker 1:
+
+25:01 Unless you create a new algorithm, for example, which is different story.
+
+Speaker 2:
+
+25:05 That's why, that's why I could try to make my own thing.
+
+Speaker 1:
+
+25:09 Yeah, but as I told you, make something finally from the last year that you can do.
+
+25:14 Ambition is good. I am not against if you are aware of the challenges.
+
+25:18 But if you make something that's really ambitious and you got stuck is the problem.
+
+25:22 So use your using. You have some kind of basic structure for a project.
+
+25:26 That's fine. I say this is more than enough. Make it first. Make it first whichever of the shelf tools that you'll be using.
+
+25:34 And if you need to make extension, after you finish it, do it.
+
+Speaker 2:
+
+25:38 What do you mean by extension?
+
+Speaker 1:
+
+25:39 For example, you say, okay, I made it the basic thing and it work.
+
+25:42 Probably I will make automating this part by doing this or by doing that and so on.
+
+25:47 So, or using, for example, new ideas.
+
+Speaker 2:
+
+25:50 Yeah.
+
+Speaker 1:
+
+25:50 After you finish it, that will be more secured for you and saving your project.
+
+25:55 So be just less taking, less risky way. That's what I advise you.
+
+Speaker 2:
+
+26:00 Okay.
+
+Speaker 1:
+
+26:01 Okay.
+
+Speaker 2:
+
+26:01 Yeah.
+
+Speaker 1:
+
+26:02 Okay. So good. So we will meet after the.
+
+Made with Genio Notes
