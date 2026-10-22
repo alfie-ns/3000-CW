@@ -1,0 +1,648 @@
+
+# 3000-2; CRITICAL
+
+## Transcript
+
+00:07So** **I'm** **trying** **to** **keep** **my** **voice** **fl.** **Excellent.** **So** **top** **3000** **project** **module.** **I'm** **here** **today** **to** **give** **you** **a** **quick** **talk** **about** **management,** **AI** **and** **policy** **as** **master** **by** **say** **in** **France** **basing** **on** **project** **management** **much** **in** **the** **third** **year.** **
+
+00:26I** **do** **apologize.** **You** **will** **see** **some** **of** **this** **important** **season** **again** **in** **the** **coming** **weeks.** **
+
+00:31This** **is** **a** **recent** **start** **score** **for** **everybody.** **This** **is** **to** **try** **and** **help** **you** **understand** **what** **we're** **expecting** **from** **you.** **
+
+00:38So** **a** **large** **part** **of** **your** **report,** **if** **you** **scroll** **down** **through** **your** **marker** **through** **the** **sign** **brief** **this** **month,** **you'll** **come** **across** **on** **rubric** **for** **your** **report** **and** **large** **part** **of** **your** **marks** **are** **there** **to** **project** **management.** **
+
+00:53Yeah,** **so** **we** **need** **to** **demonstrate** **that** **we've** **gone** **through** **to** **manage** **our** **project.** **
+
+01:00Not** **just** **show** **us** **the** **project** **product** **that** **you** **have** **created** **at** **the** **end.** **
+
+01:05Yeah,** **you** **have** **to** **talk** **us** **through** **that** **management** **site** **and** **you** **have** **to** **show** **us** **how** **you've** **done** **things** **as** **well.** **
+
+01:11We** **really** **like** **that.** **You** **know** **other** **processes** **that** **you** **go** **through** **with** **project** **management,** **you've** **already** **naturally** **been** **doing** **some** **of** **that** **with** **the** **staff.** **
+
+01:21Project** **initiation** **document** **progress** **you** **have** **yet** **to** **build** **in** **over** **the** **coming** **weeks.** **
+
+01:25That's** **one** **of** **the** **first** **things** **you** **do** **as** **part** **of** **the** **project** **management** **is** **scoping** **out** **the** **project,** **giving** **yourself** **a** **direction** **of** **travel.** **
+
+01:34You** **will** **also** **produce** **risk** **success.** **You** **will** **also** **produce** **a** **timeline.** **You** **will** **produce** **these** **documents** **that** **help** **you** **understand** **what** **the** **project** **looks** **like** **and** **how** **you** **are** **going** **to** **achieve** **that** **in** **the** **next** **12** **months** **for** **the** **rest** **of** **the** **year.** **
+
+01:49And** **that** **is** **all** **essentially** **project** **management** **effect** **is** **all** **part** **of** **that** **management** **technique.** **
+
+01:58Just** **so** **you** **get** **a** **feel** **of** **what's** **expected** **from** **you.** **
+
+02:01So** **you** **get** **as** **many** **points** **as** **you** **possibly** **can** **in** **that** **section.** **
+
+02:04Project** **management** **is** **one** **of** **the** **easy** **sections** **to** **get** **marked** **in.** **
+
+02:07It** **really,** **really** **is.** **So** **we** **will** **show** **you** **that** **we** **will** **also** **touch** **on** **quality.** **
+
+02:13Now** **this** **is.** **And** **if** **you** **talk** **to** **some** **of** **you** **may** **have** **come** **across** **hopefully** **come** **across** **the** **word** **equality,** **but** **some** **of** **you** **may** **have** **come** **across** **equality** **slightly** **different** **guises.** **
+
+02:22And** **what** **I** **will** **talk** **you** **through** **is** **what** **we** **mean** **by** **quality** **in** **terms** **of** **this** **project.** **
+
+02:27Do** **not** **plan** **it,** **I** **mean** **test** **it** **effectively** **at** **this** **point** **in** **time.** **
+
+02:31But** **it's** **about** **what** **we** **test,** **how** **we** **test** **it** **and** **how** **we** **prove** **that** **actually** **what** **we've** **created** **is** **good** **for** **if** **you're** **pushing** **high** **rate.** **
+
+02:42But** **yeah,** **you** **cover** **all** **that** **session.** **I** **will** **start** **by** **going** **through** **portfolio** **of** **AI** **cy.** **Then** **we'll** **move** **into** **that** **SP** **planning** **phase** **which** **is** **the** **bit** **you** **are** **in** **currently.** **
+
+02:52And** **then** **we** **will** **talk** **about** **project** **policy** **at** **the** **end.** **
+
+02:55The** **reason** **I** **build** **project** **policy** **at** **the** **end** **is** **at** **the** **beginning** **of** **this** **particular** **session** **where** **we're** **talking** **about** **planning** **is** **because** **we** **have** **to** **plan** **how** **to** **develop** **quality** **from** **day** **one.** **
+
+03:05This** **quality** **doesn't** **happen** **at** **the** **end.** **Quantity** **after** **fix** **the** **process** **that** **you** **put** **in** **place** **throughout** **the** **whole** **of** **the** **project.** **
+
+03:12So** **it's** **important** **to** **make** **sure** **you're** **aware** **of** **it** **now** **going** **into** **your** **plan** **back** **now.** **
+
+03:18So** **anywhere** **you** **start** **moving** **through** **that** **project,** **you** **can** **start** **implementing** **it** **as** **you** **go** **next.** **
+
+03:24And** **why** **is** **this** **screen** **so** **high?** **I** **have** **absolutely** **no** **idea.** **So** **this** **morning** **that** **figure** **has** **changed.** **I** **looked** **through** **last** **Monday.** **Speed** **up.** **I** **looked** **this** **morning** **just** **broken** **over** **80** **of** **you** **have** **now** **signed** **up** **for** **your** **portfolio** **or** **go** **back.** **
+
+03:39There** **are** **154** **enrolled** **on** **this** **module.** **74** **of** **you** **haven't** **signed** **up** **for** **your** **portfolio.** **That** **is** **the** **best** **part** **of** **you** **haven't** **signed** **up** **for** **the** **portfolio** **yet.** **
+
+03:52You** **need** **to** **do** **this** **asap.** **Okay.** **There** **have** **been** **a** **few** **issues** **with** **enrollments** **and** **things** **like** **that.** **
+
+03:59We** **are** **aware** **of** **at** **least** **two** **or** **three** **cases** **of** **that.** **
+
+04:02Just** **remind** **me** **we** **talking** **to** **students** **about** **that.** **
+
+04:04That's** **not** **a** **problem.** **If** **anybody** **has** **any** **issues** **accessing** **the** **ped,** **you** **need** **to** **let** **myself** **know** **asa.** **
+
+04:13Because** **you** **need** **to** **get** **onto** **PED** **and** **you** **start** **filling** **in.** **
+
+04:16Primarily** **your** **project** **initiation** **documentation** **is** **on** **ped.** **
+
+04:21So** **that** **first** **document** **you'd** **like** **to** **submit,** **tell** **us** **what** **project** **is.** **
+
+04:25That's** **what** **we** **work** **with** **your** **supervisor** **over** **time,** **weeks** **to** **fill** **that** **document** **in.** **
+
+04:30And** **you** **won't** **spend** **that** **in** **three** **weeks** **time.** **But** **it's** **like** **that** **is** **long** **over** **time.** **The** **other** **one** **you** **also** **have** **on** **there** **is** **your** **sprint** **time.** **
+
+04:38Again** **you** **need** **to** **be** **on** **there** **roll** **your** **sprint.** **But** **obviously** **the** **way** **we** **work** **these** **models** **we** **always** **have** **is** **a** **two** **week** **sprint.** **
+
+04:48So** **each** **of** **you** **will** **be** **putting** **a** **short** **summary** **of** **what** **you** **have** **done** **in** **over** **that** **spring** **and** **what** **the** **plan** **is** **for** **the** **next** **spring.** **
+
+04:55Okay,** **so** **help** **keep** **record** **of** **where** **you're** **traveling.** **
+
+04:59Then** **these** **instructions.** **My** **house** **access** **penal** **pad** **of** **COP** **3000's** **near** **page.** **
+
+05:05So** **please** **do** **go** **over** **there** **and** **have** **a** **quick** **look** **at** **it.** **
+
+05:09None** **of** **you** **in** **the** **room** **have** **actually** **had** **a** **chance** **not** **just** **to** **go** **on,** **actually** **have** **a** **look** **through** **that.** **
+
+05:37So** **if** **you** **log** **once** **you've** **logged** **into** **D** **you** **can** **access** **it** **at** **the** **top** **of** **the** **screen** **and** **login** **through** **the** **university** **login** **as** **normal.** **
+
+05:50Then** **you** **will** **do** **the** **editor.** **So** **you** **see** **sign** **on.** **You** **guys** **resources** **you** **will** **see** **in** **your** **list** **of** **things** **I** **Have** **I** **have** **a** **lot** **more** **than** **you.** **
+
+06:05You** **will** **see** **com** **3000** **listed.** **You** **just** **basically** **create** **a** **response** **and** **I'll** **open** **it** **up** **for** **you** **guys** **view** **and** **you** **will** **then** **be** **able** **to** **save** **that** **and** **that** **will** **be** **your** **portfolio.** **
+
+06:18You** **will** **be** **able** **to** **access** **that.** **Aside** **from** **the** **normal** **information** **at** **the** **front** **there,** **there's** **a** **few** **tabs** **along** **the** **top.** **
+
+06:26The** **first** **one** **is** **one** **in** **concrete** **now** **which** **is** **utilized** **inspection** **and** **the** **second** **one** **there** **saying** **it's** **the** **important** **one** **for** **you** **is** **that** **project** **so** **way** **works** **is** **this** **is** **not** **single** **submission** **you** **don't** **have** **once** **you** **cycle** **in** **here** **and** **save** **it.** **
+
+06:45That's** **what** **if** **you** **can't** **ever** **exit** **again** **It's** **a** **workspace.** **
+
+06:49So** **you** **go** **on** **start** **doing** **it** **now,** **save** **it,** **come** **back,** **exit** **later,** **save** **it,** **come** **away,** **come** **back.** **
+
+06:56You.** **You** **can** **come** **back** **and** **for** **this** **as** **many** **times** **as** **you** **want** **to** **save** **it** **as** **many** **times** **if** **you** **want** **to.** **
+
+07:01Obviously** **up** **until** **the** **deadline** **you** **need** **to** **do** **that** **plus** **the** **deadline** **gift.** **
+
+07:04You** **will** **know** **what's** **there** **deadline.** **Again** **we** **don't** **take** **a** **lot** **of** **this** **page.** **So** **if** **your** **project** **vision** **changes** **overall** **module** **you** **are** **more** **likely** **to** **come** **back** **and** **update** **the** **vision** **here** **as** **well.** **
+
+07:17That's** **absolutely** **fine.** **So** **just** **your** **general** **information** **on** **there** **your** **project** **vision** **and** **then** **say** **what** **that** **looks** **like** **a** **small** **literature** **review** **about** **places** **to** **work** **that** **you** **want** **students** **context** **of** **the** **broad** **of** **the** **field** **and** **space.** **
+
+07:33So** **for** **lots** **of** **you** **there** **will** **be** **academic** **literature** **in** **there.** **
+
+07:36There** **should** **be** **academic** **literature** **for** **everybody** **in** **there.** **
+
+07:39But** **there** **will** **also** **likely** **be** **a** **market** **research** **in** **there** **as** **well.** **
+
+07:43You** **know** **what** **other** **things** **are** **out** **there** **that's** **similar** **to** **what** **you're** **doing.** **
+
+07:47What** **are** **the** **gaps** **in** **those** **things?** **Hence** **why** **you** **are** **suggesting** **that** **you're** **going** **to** **this.** **
+
+07:52So** **let's** **take** **some** **of** **our** **project** **supervised** **years** **ago.** **
+
+07:55They** **want** **to** **make** **a** **site** **security** **educational** **platform** **for** **the** **home** **user.** **
+
+08:02Yeah.** **So** **they** **found** **some** **really** **nice** **statistics** **from** **the** **literature** **saying** **that** **X** **number** **of** **people** **in** **the** **general** **public** **don't** **understand** **what** **phishing** **emails** **are.** **
+
+08:11So** **they** **found** **this.** **They** **then** **said** **it** **looked** **around.** **There's** **only** **a** **couple** **platforms** **available** **for** **home** **users.** **
+
+08:17First** **site** **security.** **So** **they** **found** **the** **governments** **in** **there,** **you** **know,** **don't** **get** **present** **that** **has** **information** **about** **things** **like** **phishing** **and** **other** **general** **side** **resources** **that** **people** **might** **see** **in** **their** **home.** **
+
+08:31So** **you** **can** **see** **how** **the** **literature** **and** **the** **market** **research** **work** **to** **be** **able** **to** **justify** **your** **problem.** **
+
+08:36That's** **what** **we're** **asking.** **Analysis** **risk** **plan.** **That** **is** **a** **risk** **assessment.** **That** **should** **be** **a** **terminator** **or** **D** **and** **E** **for** **you** **to** **use** **your** **legal,** **ethical,** **social** **and** **federal.** **
+
+08:46You've** **done** **that** **in** **your** **hardware** **project** **and** **your** **manager,** **your** **spinelight** **evacuated** **system.** **
+
+08:51So** **again,** **it's** **not** **just** **saying** **develop** **back** **then** **and** **hence** **that** **two** **and** **a** **half,** **three** **months** **might** **be** **for** **that** **particular** **activity.** **
+
+08:59Go** **deeper** **than** **that.** **You** **know** **what** **about** **what** **you** **need** **to** **do** **for** **back** **what** **needs** **you** **for** **those** **testing.** **
+
+09:09That's** **what** **we're** **looking** **for** **and** **that** **effectively** **is** **the** **initial** **submission.** **
+
+09:16But** **we** **will** **need** **within** **the** **next** **few** **weeks.** **Can't** **bring** **the** **exact** **date** **it's** **listed** **on.** **D** **The** **one** **thing** **that** **you** **will** **need** **to** **be** **aware** **of** **throughout** **the** **year,** **same** **with** **previous** **years.** **
+
+09:28You** **will** **have** **to** **do** **the** **CPD** **or** **expect** **the** **CPD** **activities.** **
+
+09:32So** **continue** **FLAM** **activities.** **These** **will** **common** **place** **in** **the** **workforce** **near** **most** **organizations,** **near** **all** **organizations.** **
+
+09:40After** **providing** **some** **form** **of** **professional** **development,** **there's** **a** **few** **listed** **examples** **of** **what** **they** **could** **be.** **
+
+09:48You** **should** **be** **doing** **these** **throughout** **that** **year.** **These** **could** **be** **lively** **sessions.** **You've** **got** **a** **practical** **support.** **Absolutely** **fine.** **If** **citations** **and** **breakfasting** **workshops.** **Absolutely** **fine.** **This** **could** **be** **conferences** **that** **you** **attend** **online** **or** **in** **person.** **
+
+10:01This** **could** **be** **linked** **learning** **webinars.** **This** **could** **be** **anything** **that** **you** **feel** **helps** **you** **develop** **as** **a** **professional** **in** **this** **space.** **
+
+10:10With** **that** **reflection,** **we** **want** **you** **to** **talk** **about** **what** **you've** **done** **for** **that** **activity** **and** **what** **that** **made** **you** **think.** **
+
+10:17Yeah.** **So** **I** **attend,** **you** **know,** **CY** **workshop** **the** **other** **day** **and** **there's** **a** **fantastic** **lecture** **on** **B** **we** **access** **control.** **
+
+10:28Yeah.** **Project** **that's** **made** **me** **think** **about** **this.** **Yeah,** **it's** **that** **kind** **of** **thing** **that** **you're** **looking** **for** **there** **as** **well.** **
+
+10:36I** **pointed** **out** **because** **lots** **of** **students** **last** **year** **left** **this** **last** **minute** **trying** **to** **scramble** **the** **week** **to** **try** **and** **find** **free** **CBD** **activities.** **
+
+10:43Don't** **be** **that** **person.** **These** **are** **easy** **to** **do.** **Very,** **very** **quick,** **very** **simple** **things** **to** **do.** **Do** **them** **as** **they** **arise** **and** **do** **them** **early** **as** **well.** **Straight** **them** **out** **throughout** **the** **year.** **Yes.** **The** **repo** **you** **have** **on** **the** **first** **page.** **Yes.** **Is** **that** **how** **to** **be** **public** **or** **if** **not** **have** **you** **shared** **with** **the** **who** **you** **share?** **
+
+11:04Okay.** **So** **keeping** **it** **private** **to** **start** **with** **and** **then** **sending** **a** **share** **link** **to** **your** **supervisor,** **we** **can** **access** **it** **from** **there.** **
+
+11:15And** **when** **you** **get** **towards** **the** **end** **of** **the** **project,** **you** **notify** **who** **your** **second** **mar** **is** **and** **again** **you** **would** **be** **sharing** **your** **link** **with** **the** **second** **supervisor** **so** **they** **can** **gain** **access** **from** **it.** **
+
+11:25And** **then** **afterwards** **you** **are** **more** **welcome** **to** **make** **it** **proper,** **make** **it** **public** **if** **you** **so** **wish.** **
+
+11:30Lots** **of** **students** **don't** **make** **it** **public** **afterwards** **because** **etc.** **
+
+11:36Etc.** **You** **don't** **have** **to** **make** **it** **public.** **And** **we** **also** **have** **such** **use** **to** **this.** **It's** **public** **anyway.** **If** **you** **list** **it's** **public** **you** **are** **the** **only** **one** **that** **can.** **
+
+11:44You** **can** **only** **present** **work** **you** **have** **done** **for** **it.** **It** **is** **not** **community** **developed.** **It** **is** **your** **development** **so** **obviously** **public.** **You** **can** **also.** **You** **have** **some** **there.** **You** **just** **need** **to** **be** **very.** **We** **put** **the** **link** **multiple** **times** **throughout** **the** **portfolio** **points.** **
+
+12:03We're** **hoping** **the** **link** **doesn't** **change** **again.** **We** **understand** **sometimes** **projects** **change** **you** **pivot** **direction.** **
+
+12:09You** **might** **say** **being** **repo** **rather** **than** **trying** **to** **reuse** **an** **old** **one.** **
+
+12:12So** **we** **give** **you** **a** **few** **opportunities** **to** **give** **us** **an** **up** **to** **date** **link** **in** **the** **file** **submission** **point** **there** **is** **a** **box** **for** **you** **for** **your** **link** **to** **your** **repo** **as** **well.** **
+
+12:23Just** **again** **is** **your** **strings** **ir.** **This** **one** **is** **new** **to** **portfolio** **initiatives.** **We're** **trying** **it** **out** **to** **see** **how** **it** **works** **in** **this** **all** **out** **for** **you** **guys.** **
+
+12:35We** **have** **seen** **a** **lot** **of** **students** **over** **the** **last** **three** **or** **four** **years** **who** **decide** **in** **their** **law** **even** **against** **their** **guidance** **to** **include** **pages** **and** **pages** **and** **pages** **of** **their** **sprint** **diary** **in** **their** **final** **report.** **
+
+12:51We** **only** **have** **10,000** **words.** **For** **your** **final** **report,** **if** **you** **include** **seven** **or** **eight** **pages** **of** **your** **sprint** **diary** **you** **have** **just** **jumped** **through** **a** **huge** **number** **of** **your** **works** **and** **that's** **been** **given** **us** **almost** **nothing.** **
+
+13:05Yeah.** **So** **what** **we've** **started** **to** **do** **this** **year** **is** **we're** **going** **to** **put** **them** **out** **of** **the** **here** **you** **put** **them** **out** **of** **the** **book.** **
+
+13:11So** **you** **will** **keep** **your** **diary** **here.** **So** **what** **you** **can** **do** **in** **your** **report** **is** **you** **can** **then** **reference** **back** **to** **C** **sprint** **1,** **3,** **sprint** **4.** **
+
+13:21Yes,** **you** **can** **reference** **back** **to** **your** **diving** **out** **of** **it.** **
+
+13:24So** **in** **other** **words** **we** **give** **you** **extra** **works** **for** **free** **over** **here.** **
+
+13:26But** **it** **does** **mean** **you** **need** **to** **keep** **your** **sprint** **diary** **up** **to** **date.** **
+
+13:30It's** **also** **long** **way** **as** **well.** **That's** **the** **academics,** **it's** **your** **supervisors** **is** **you** **would** **expect** **to** **see** **your** **sprint** **time** **being** **kept** **up** **to** **date.** **
+
+13:40So** **again** **we** **have** **a** **good** **record** **of** **what** **you've** **been** **doing** **over** **the** **course** **of** **time.** **
+
+13:45This** **helps** **you** **with** **a** **split.** **So** **how** **do** **you** **do** **when** **you** **write** **a** **work** **document?** **Do** **you** **literally** **just** **do** **one** **work** **documentary** **assessment** **and** **it's** **keep** **adding** **and** **adding** **and** **adding** **and** **adding** **to** **that** **work.** **
+
+13:57Lots** **of** **you,** **most** **of** **you** **probably** **do** **this.** **The** **challenge** **with** **that** **is** **we** **don't** **always** **see** **the** **full** **history** **of** **that** **document.** **
+
+14:07So** **if** **you** **produce** **something** **that** **we** **suddenly** **go** **actually** **we're** **not** **quite** **sure** **whether** **this** **is** **your** **own** **life** **or** **whether** **this** **may** **be** **a** **by** **AI** **or** **by** **others.** **
+
+14:18You** **could** **be** **an** **aggravated.** **We** **looked** **at** **the** **history** **of** **that** **document** **to** **try** **and** **work** **out** **whether** **it** **has** **been** **developed** **over** **time** **by** **you.** **
+
+14:26Challenge** **is** **you** **don't** **often** **see** **that** **if** **you** **use** **one** **single** **document,** **words** **look** **better** **but** **not** **very** **flatter.** **
+
+14:32You** **generally** **should** **be** **keeping** **every** **new** **site** **you** **add** **something** **start** **it** **should** **be** **a** **new** **draft,** **a** **new** **version** **of** **document.** **
+
+14:38This** **is** **what** **we're** **doing** **here.** **We** **are** **basically** **allowing** **you** **to** **tell** **us** **what** **you** **have** **been** **doing** **each** **two** **weeks** **over** **the** **course** **of** **the** **project.** **
+
+14:46So** **we** **are** **unsure** **whether** **the** **work** **is** **actually** **yours** **or** **not.** **
+
+14:50You** **have** **evidence** **that** **you** **have** **actually** **been** **working** **on** **this,** **developing** **this?** **
+
+14:56Yeah.** **It's** **in** **your** **best** **interest.** **It's** **about** **to** **earn** **concise** **as** **you** **possibly** **can** **describe** **us** **now** **that's** **the** **post** **investment** **duty** **of** **the** **last** **seems** **a** **very** **long** **way** **away** **at** **this** **point** **in** **time.** **
+
+15:12It** **is** **but** **I'm** **warning** **now** **it** **comes** **around** **very** **very** **quickly.** **
+
+15:17Yes.** **Question.** **Yeah,** **yeah.** **So** **within** **the** **market** **rubric** **and** **then** **you'll** **see** **how** **this** **is** **broken** **down.** **
+
+15:34You** **will** **have** **in** **your** **control** **spl** **side** **you** **have** **implementation** **part.** **
+
+15:39So** **how** **you've** **actually** **implemented** **project.** **Some** **of** **that** **will** **come** **through** **from** **send** **like** **scripties** **the** **ASP** **information** **you've** **given** **there** **is** **the** **project** **management** **marks** **we** **mentioned** **as** **well.** **
+
+15:51So** **again** **your** **Sprint** **diaries.** **There's** **also** **marks** **for** **profession** **and** **practicing** **is** **acted** **as** **any** **developer** **in** **this** **particular** **space** **and** **that** **includes** **turning** **up** **things** **like** **showcase** **at** **the** **end** **of** **the** **year** **actually.** **
+
+16:11Build** **out** **the** **portfolio.** **In.** **Previous** **year** **before** **we** **moved** **to** **portfolio** **we** **had** **like** **five** **different** **submission** **portals** **on** **the** **pla.** **
+
+16:24There** **was** **three** **different** **deadlines** **post** **next** **year.** **
+
+16:28That's** **the** **best** **in** **my** **opinion.** **The** **wrong** **place.** **So** **for** **us,** **PowerPad** **actually** **allows** **us** **to** **have** **it** **all** **place.** **
+
+16:41The** **only** **one** **cited** **is** **for** **the** **print** **poster** **the** **version** **you** **want** **printed.** **
+
+16:46That** **has** **to** **be** **clearly.** **Six** **and** **seven** **of** **them** **last** **year.** **Anything** **else?** **It's** **on.** **If** **you** **do** **have** **any** **questions** **about** **the** **other** **bank,** **you** **just** **need** **to** **ask** **me** **or** **your** **supervisors** **and** **we** **can** **show** **you** **it's** **not** **horrible.** **
+
+17:06Excellent.** **So** **moving** **on** **to** **the** **AI** **quickly.** **This** **is** **all** **listed** **in** **the** **assignment** **brief.** **It** **shouldn't** **be** **a** **no** **surprise** **as** **long** **as** **you** **break** **the** **assignment** **brief.** **
+
+17:15Ultimately** **you** **have** **a** **lot** **of** **leeway** **with** **the** **use** **of** **AI** **in** **this** **project.** **
+
+17:21I'm** **talking** **about** **ch.** **At** **this** **point** **all** **of** **you** **should** **be** **thinking** **about** **integrating** **AI** **in** **some** **shape** **or** **form** **into** **your** **project** **and** **using** **as** **a** **tool** **to** **assist** **your** **development.** **
+
+17:32The** **one** **thing** **I** **would** **make** **now** **is** **it** **cannot** **write** **the** **code** **for** **you.** **
+
+17:40It** **can** **provide** **guidance,** **it** **can** **provide** **Support** **like** **pseudocode.** **
+
+17:46You** **know,** **I'm** **not** **sure** **how** **this** **library** **works.** **How** **could.** **How** **does** **this** **library** **work?** **Give** **me** **some** **examples** **of** **ST** **code.** **You** **can** **give** **that** **code.** **You** **have** **to** **be** **the** **ones** **that** **integrate** **it** **into** **the** **project** **yourself,** **I.** **E.** **You** **have** **to** **be** **the** **ones** **that** **write** **code.** **
+
+18:02You** **have** **one** **more** **thing** **called** **a** **viva** **at** **the** **end** **of** **this** **project** **where** **we** **put** **you** **in** **front** **of** **the** **editor** **supervising** **the** **second** **marker** **that** **you** **have** **present** **your** **work.** **
+
+18:12What** **you** **developed.** **We** **will** **start** **asking** **questions** **of** **your** **what** **you** **develop.** **
+
+18:18We** **will** **ask** **you** **to** **build** **up** **a** **code** **point** **at** **certain** **things.** **
+
+18:21Tell** **us** **how** **somebody** **weaves** **one** **side** **of** **your** **code** **to** **the** **other** **side** **of** **your** **code.** **
+
+18:26We** **are** **asking** **whether** **you** **match** **to** **understand** **what** **you've** **written** **and** **how** **it** **works.** **
+
+18:31If** **you** **get** **a** **guarantee** **it** **you** **will** **not** **because** **you** **will** **not** **have** **the** **infinite** **understanding** **of** **the** **code** **that** **somebody** **who** **has** **actually** **written** **this** **over** **the** **last** **eight** **months** **does** **not.** **
+
+18:48We** **had** **numerous** **last** **year** **that** **we** **applaud** **for** **academic** **defenses** **because** **they** **overused** **it** **created** **something** **and** **did** **not** **understand** **how** **or** **what** **it** **actually** **did.** **
+
+19:00Yes.** **So** **that's** **it.** **You're** **warning** **being** **to** **fully** **understand** **what** **we** **spoke.** **
+
+19:05It** **also** **needs** **to** **be** **fully** **transparent** **about** **how** **you** **use** **AI** **in** **your** **projects.** **
+
+19:11And** **again** **in** **your** **implementation** **section** **where** **you** **will** **talk** **about** **the** **tools** **that** **you've** **used,** **etc.** **
+
+19:18To** **support** **that** **you** **need** **to** **be** **sexually** **transparent** **about** **what** **you've** **used** **AI** **for.** **
+
+19:25It's** **positive,** **it** **helps** **you** **do** **and** **it's** **limitations** **as** **well.** **
+
+19:30Use** **GitHub** **Tesla** **few** **hands** **here** **and** **there.** **Not** **calling** **it** **an** **AI** **tool,** **but** **I'm** **calling** **it** **a** **talk.** **
+
+19:38It** **is** **fantastically** **useful** **for** **certain** **things.** **It** **has** **very** **nice** **toolkits** **on** **there** **that** **are** **great** **for** **certain** **things,** **but** **it** **has** **huge** **limitations** **in** **other** **areas.** **
+
+19:49Yeah,** **that** **is** **the** **Description** **you** **prefer** **GitHub** **source** **test.** **
+
+19:54It's** **awesome** **test** **in** **your** **report.** **If** **you're** **using** **them** **the** **same** **for** **AI.** **If** **you're** **using** **it** **be** **clear** **how** **you've** **used** **it** **its** **pros** **and** **its** **cons** **and** **how** **you've** **overcome** **those** **costs.** **
+
+20:05And** **let's** **say** **that** **is** **what** **you've** **got** **up** **there.** **You** **know,** **if** **you** **are** **ever** **in** **doubt** **are** **your** **supervisor.** **
+
+20:17Do** **not** **just** **go** **ahead** **and** **do** **something** **and** **then** **go** **well** **I** **didn't** **know** **that** **wasn't** **allowed** **any** **questions** **clearing** **speeches** **Supervisor** **going** **to** **put** **me** **over** **give** **you** **that** **guidance.** **
+
+20:27Yeah.** **Ultimately** **the** **British** **got** **a** **phoenix** **who** **accredits** **the** **degree** **the** **project** **launch** **one** **of** **the** **ones** **that** **they** **did** **the** **happiest** **the** **most** **the** **noted** **intended.** **
+
+20:39Yeah.** **Because** **it** **is** **obviously** **a** **capstone** **of** **a** **three** **paragraph.** **
+
+20:44It** **is** **one** **that** **go** **through** **finds** **you** **about** **gravitation** **to.** **
+
+20:48So** **we** **don't** **want** **applying** **projects** **but** **are** **developed** **by.** **
+
+20:54You** **guys** **should** **have** **invented.** **Yeah.** **Excellent.** **So** **moving** **on** **to** **that** **first** **page** **of** **what** **we** **should** **be** **doing** **currently.** **
+
+21:07We** **should** **be** **starting** **our** **planning** **process.** **But** **we** **need** **to** **be** **honest** **about** **day** **one.** **This** **is** **not** **a** **simple** **process.** **Developing** **the** **level** **of** **project** **you** **are** **going** **to** **develop** **upon** **3,000** **is** **not** **a** **simple** **process.** **
+
+21:22We** **did** **an** **exercise** **with** **the** **project** **students** **yesterday** **where** **we** **took** **user** **stories.** **
+
+21:27We** **broke** **them** **down** **into** **subsequent** **tasks** **for** **each** **of** **those** **user** **stories.** **
+
+21:31Suddenly** **these** **things** **spiral** **from** **what** **looked** **like** **a** **relatively** **simple** **Axlo** **to** **a** **very,** **very** **complex** **thing** **of** **lots** **of** **different** **elements** **of** **each** **work** **gets** **us** **to** **teach** **you** **how** **it** **works** **successfully.** **
+
+21:48Easy,** **complex.** **It** **is** **not** **going** **to** **be** **easy.** **You're** **finding** **it** **easy.** **You're** **probably** **not** **pushing** **yourself** **farther.** **There** **are** **lots** **of** **moving** **parts.** **You** **need** **to** **be** **aware** **of** **what** **those** **moving** **parts** **are** **currently** **and** **to** **be** **aware** **of** **them** **as** **you** **go** **through** **and** **develop** **them.** **
+
+22:10You** **are** **limited** **to** **the** **fences** **that** **are** **maintenance** **you've** **got** **until** **now** **for** **this** **project.** **
+
+22:18So** **we've** **got** **all** **deadlines.** **You** **can't** **go** **beyond** **it** **project** **gaps** **in** **it** **by** **then.** **So** **you** **know** **the** **length** **of** **time** **you've** **got.** **You've** **also** **got** **four** **other** **modules** **that** **require** **for** **spot** **delivery.** **
+
+22:36You** **also** **have** **Christmas,** **Easter** **and** **whatever** **other** **holiday** **between** **mail** **and** **submission** **as** **well.** **
+
+22:44So** **about** **eight** **and** **a** **half** **months.** **Eight** **months** **is** **already** **starting** **to** **look** **a** **little** **bit** **less** **than** **eight** **months,** **isn't** **it?** **
+
+22:51Yeah.** **Be** **realistic** **with** **yourself** **in** **terms** **of** **your** **time** **and** **your** **capability.** **
+
+22:59We** **often** **see** **students** **and** **again** **this** **is** **the** **problem.** **
+
+23:01This** **is** **a** **fantastic** **place** **to** **be** **at** **this** **point** **in** **time** **pitching** **projects** **go** **to** **this** **big.** **
+
+23:07By** **the** **end** **of** **the** **project** **you're** **submitting** **a** **project** **that** **this** **big** **that** **is** **absolutely** **fine** **because** **it** **needs** **you** **to** **learn** **something** **less** **precise,** **packaged** **up** **nicely** **and** **has** **exactly** **what** **you** **need** **in** **it.** **
+
+23:20So** **when** **you** **start** **thinking** **about** **your** **vision** **and** **you're** **opening** **up** **the** **project** **over** **the** **coming** **weeks,** **don't** **be** **afraid** **to** **have** **it** **as** **a** **large** **project** **to** **start** **with.** **
+
+23:30But** **be** **clear** **and** **honest** **with** **yourselves.** **What** **are** **the** **critical** **parts** **that** **you** **can't** **out** **this** **project** **about?** **
+
+23:37Make** **sure** **they're** **highlighted.** **And** **what** **are** **the** **bits** **that** **actually** **covers** **you** **on** **the** **top?** **
+
+23:43Which** **bits** **and** **bits** **we** **could** **drop** **if** **we** **need** **to.** **Yeah.** **Functionality** **is** **one** **of** **the** **things** **that** **gets** **cut** **all** **the** **time** **is** **the** **time** **constraint.** **
+
+23:53Make** **sure** **you** **are** **highly** **aware** **of** **the** **bits** **that** **are** **Critical** **and** **the** **bits** **that** **are** **not** **critical** **because** **you** **do** **not** **want** **to** **be** **at** **the** **end** **of** **the** **project** **where** **you've** **done** **some** **really** **nice** **manual** **stuff.** **
+
+24:03But** **you're** **missing** **the** **critical** **bit** **that** **actually** **allows** **that** **to** **work** **properly.** **
+
+24:07Yeah.** **So** **being** **realistic** **yourself** **now** **about** **the** **time** **and** **your** **budget,** **lets** **speak** **your** **capacity,** **do** **that** **now** **and** **it'll** **pay** **off** **in** **the** **long** **run.** **
+
+24:18The** **projects** **are** **customer** **focus.** **You** **all** **come** **up** **with** **this** **idea** **yourself.** **Some** **of** **you** **may** **have** **worked** **in** **placement** **or** **some** **of** **you** **are** **working** **with** **industry.** **
+
+24:26I** **know** **that** **have** **come** **up** **with** **these** **projects** **that's** **you've** **got** **industry** **replacement,** **you've** **got** **a** **client** **in** **your** **mind** **already** **for** **these,** **potentially** **a** **client** **that** **you** **can** **already** **talk** **to** **and** **get** **some** **feedback** **on** **as** **you** **go** **through** **the** **client.** **
+
+24:39Brilliant.** **Not** **to** **be** **wrong,** **that's** **absolutely** **fine.** **But** **give** **yourself** **a** **client.** **Who** **are** **you** **developing** **this** **for?** **What** **is** **the** **problem** **you** **are** **trying** **to** **solve?** **Get** **that** **clear** **in** **your** **mind** **now.** **Get** **it** **on** **your** **initiation** **document** **now.** **Because** **then** **every** **time** **you** **make** **a** **decision** **later** **in** **your** **process,** **you** **ask** **yourself,** **does** **this** **actually** **help** **get** **towards** **solving** **the** **problem** **we** **said** **we're** **trying** **to** **solve?** **
+
+25:13If** **yes,** **great,** **do** **it.** **If** **no,** **have** **I** **got** **time** **to** **do** **this?** **Yeah.** **You** **have** **a** **clear** **understanding** **about** **what** **you're** **developing,** **who** **you're** **developing** **before** **your** **target** **audiences.** **
+
+25:28The** **problem** **will** **stay.** **So** **you're** **trying** **to** **feel** **that** **will** **die** **a** **lot** **of** **your** **development** **decisions.** **
+
+25:35It'll** **also** **mean** **actually** **when** **you** **develop** **something** **at** **the** **end** **of** **it,** **when** **your** **second** **arm** **walks** **in** **and** **sees** **it** **for** **the** **first** **time,** **they'll** **be** **able** **to** **make** **very** **quick** **understandings** **about** **why** **you've** **done** **certain** **things.** **
+
+25:46It** **won't** **just** **be** **a** **splattered** **asset** **of** **different** **functionality.** **
+
+25:50You** **just** **throw** **together** **and** **go.** **There'll** **be** **a** **story** **to** **it.** **You'll** **be** **able** **to** **tell** **that** **story** **documentation** **and** **in** **that** **fiber,** **Ultimately** **what** **we** **are** **looking** **for** **for** **Universal** **Genesis,** **it** **isn't** **going** **Projects** **that** **have** **got** **a** **good** **level** **of** **complexity,** **but** **have** **correct** **reports** **and** **correct** **finders** **will** **get** **atlas** **marks.** **
+
+26:17It** **can** **be** **a** **week** **of** **project,** **no** **huge** **amounts** **of** **compatibility.** **
+
+26:21But** **the** **report** **is** **fantastic,** **the** **advice** **is** **fantastic.** **
+
+26:24You** **can** **get** **those** **bumps.** **It's** **not** **saying** **that** **you** **can** **be** **complacent.** **This** **is** **saying** **that** **actually** **the** **project** **is** **designed** **around** **you** **and** **your** **abilities.** **
+
+26:35Yes,** **your** **super** **drive** **is** **going** **to** **push** **all** **of** **you** **to** **strive** **to** **be** **better,** **strive** **to** **add** **the** **complexity** **that** **we** **want** **to** **see** **from** **you,** **that** **we** **know** **you're** **capable** **of** **doing.** **
+
+26:46But** **ultimately** **what** **we're** **looking** **for** **is** **you** **together** **you** **have** **this** **body** **of** **knowledge,** **the** **skill** **set** **that** **work** **together** **and** **you** **can** **present** **that** **in** **a** **CA** **argument** **I.** **E.** **Your** **document** **matches** **the** **project** **you've** **actually** **developed** **and** **what** **you** **can** **talk** **about** **in** **your** **visor.** **
+
+27:08Yeah.** **So** **very** **simple** **example** **that** **is** **if** **your** **mission** **statement** **is** **I** **want** **to** **have** **cybersecurity** **platforms** **for** **my** **own** **users** **unset.** **
+
+27:17And** **then** **the** **project** **you** **show** **us** **shows** **us** **all** **enterprise** **level** **security** **problems.** **
+
+27:23You** **can** **see** **the** **mismatch** **home** **business** **mismatch** **knowledge** **story.** **
+
+27:30Not** **going** **to** **get** **the** **marks** **that** **you** **deserve.** **Because** **if** **you** **then** **have** **that** **story** **and** **you** **show,** **yeah,** **I** **want** **to** **have** **this** **for** **this** **user.** **
+
+27:38Here** **is** **how** **that** **was** **developed.** **Here** **is** **that** **product** **that** **shows** **its** **relevance** **to** **these** **users.** **
+
+27:44That's** **a** **really** **nice** **story** **to** **take** **your** **markers** **on.** **
+
+27:47Yeah,** **gives** **us** **nice** **lowy** **feeling** **when** **we're** **reading** **states.** **
+
+27:52Yeah.** **So** **it's** **all** **about** **showings** **that** **you** **have** **that** **knowledge** **and** **skill** **set** **in** **here** **and** **consistent** **way.** **
+
+28:01So** **there's** **a** **few** **things** **you** **need** **to** **think** **of** **early.** **
+
+28:05One,** **you** **should** **speak** **a** **little** **bio.** **It** **should** **be** **activities** **first** **think** **of** **the** **activities** **that** **you** **need** **to** **achieve** **and** **do** **the** **sequence** **of** **them.** **
+
+28:15Getting** **those** **lined** **up** **with** **each** **other** **helps** **you** **manage** **your** **time** **really** **nicely.** **
+
+28:19Whilst** **at** **the** **beginning** **you're** **going** **to** **be** **looking** **at** **what** **your** **goals** **are** **for** **your** **project.** **
+
+28:23So** **we** **have** **a** **high** **level,** **what** **is** **this** **project** **actually** **going** **to** **do?** **
+
+28:28What** **is** **my** **product** **platform,** **research,** **whatever** **it** **might** **be** **going** **to** **do.** **
+
+28:33You'll** **then** **drill** **down** **into** **specifications** **for** **that.** **
+
+28:36What** **are** **musts** **for** **this,** **what** **are** **my** **functional** **requirements,** **non** **functional** **requirements,** **what** **are** **the** **bits?** **
+
+28:41And** **a** **critical,** **non** **critical.** **Then** **you'll** **build** **back** **into** **that** **impact.** **So** **this** **is** **going** **to** **be** **your** **sequence,** **but** **you** **have** **to** **think** **of** **all** **of** **those** **project** **management** **projects** **are** **complex** **things.** **
+
+28:52There's** **lots** **of** **moving** **parts.** **Moving** **parts.** **It** **is** **also** **a** **little** **bit** **of** **chick** **in** **the** **egg** **here** **as** **well.** **
+
+28:58You're** **going** **to** **have** **condition,** **you're** **going** **to** **define** **your** **goals,** **define** **your** **specification.** **
+
+29:02Then** **you're** **going** **to** **start** **planning** **that** **out** **of** **time** **and** **go** **ah,** **I** **haven't** **lost** **enough** **time** **to** **do** **that.** **
+
+29:07Let's** **go** **back** **and** **change** **respect** **change** **activities** **to** **make** **sure** **that** **actually** **I** **do** **have** **to** **bring** **for** **this.** **
+
+29:15Do** **it** **early,** **do** **it** **as** **accurate** **as** **you** **can** **early,** **being** **honest** **with** **yourself** **and** **it** **will** **make** **the** **whole** **process** **a** **lot** **lot** **simpler** **and** **easier** **for** **you.** **
+
+29:26Why** **do** **you** **think** **we** **ask** **you** **to** **produce** **and** **you've** **done** **the** **trial** **before** **the** **initiation** **document?** **
+
+29:32Because** **it** **gives** **us** **an** **opportunity** **to** **go,** **okay,** **I** **can** **see** **how** **you** **think** **you're** **going** **to** **be** **able** **to** **do** **this?** **
+
+29:38Yeah** **your** **scope,** **your** **overall** **vision** **for** **your** **project** **it** **should** **be** **that** **vision** **what** **do** **you** **want** **to** **achieve** **it** **should** **also** **include** **the** **boundaries** **of** **that** **project.** **
+
+29:58Yeah** **I** **want** **to** **create** **a** **user** **site** **security** **training** **platform.** **
+
+30:04I'm** **not** **going** **to** **cover** **enterprise** **system** **I'm** **not** **going** **to** **cover** **all** **of** **the** **possible** **home** **risks.** **
+
+30:11I'm** **going** **to** **create** **an** **exam** **set** **of** **exercises** **or** **training** **materials** **to** **show** **how** **this** **work** **to** **set** **your** **boundaries.** **
+
+30:19Be** **clear** **with** **your** **boundaries** **because** **the** **first** **question** **lots** **of** **us** **are** **asking** **me** **five** **why** **didn't** **you** **do** **it** **this** **way?** **
+
+30:26Why** **didn't** **you** **do** **that?** **And** **your** **offense** **should** **be** **it** **was** **outsourced** **and** **give** **some** **justification** **here.** **
+
+30:34I** **chose** **fishing** **against** **the** **example** **of** **93** **94%** **of** **all** **attacks** **last** **year** **were** **because** **of** **phishing** **through** **phishing.** **
+
+30:41So** **I** **chose** **phishing** **because** **it** **is** **the** **most** **common** **that's** **why** **you've** **ignored** **hacking** **because** **the** **chance** **of** **a** **home** **use** **of** **being** **hacking** **is** **probably** **in** **the** **world** **for** **sale** **death** **basically** **put** **bound** **to** **see** **justify** **so** **yeah** **it's** **what** **will** **not** **be** **done** **in** **that** **your** **destination** **will** **cover** **all** **of** **that** **as** **well.** **
+
+31:08Give** **us** **back** **this** **statement** **include** **within** **that** **you** **have** **a** **project** **initiation.** **
+
+31:14You** **broke** **it** **down.** **You** **in** **real** **practice,** **in** **real** **large** **budgets** **you're** **likely** **producing** **a** **document** **that's** **probably** **about** **that** **thick** **planning** **information** **within** **it** **possibly** **broken** **down** **more** **simplify** **it** **a** **little** **bit** **for** **you** **but** **it** **is** **an** **important** **thing** **for** **all** **of** **you.** **
+
+31:35As** **I** **said** **earlier,** **the** **whole** **point** **of** **these** **projects** **is** **to** **demonstrate** **that** **you** **are** **able** **to** **manage** **the** **project** **and** **put** **your** **skills** **and** **knowledge** **together** **to** **do** **that.** **
+
+31:44You** **south** **say** **love** **one** **of** **my** **legal** **issues** **that** **I** **have** **to** **be** **aware** **of** **is** **GBDR** **because** **I** **have** **a** **custom** **data** **Great.** **
+
+31:54That's** **your** **lesb** **there,** **your** **implementation.** **You** **talk** **through** **how** **you've** **set** **up** **that** **database** **trying** **to** **keep** **it** **as** **secure** **and** **as** **compliant** **as** **possible** **to** **gdpr.** **
+
+32:05Fantastic.** **You've** **got** **it** **there.** **And** **then** **when** **you** **come** **into** **the** **vibe** **and** **you** **talk** **us** **through** **why** **you** **designed** **these** **installed** **again** **you** **might** **have** **to** **be** **patent** **we** **have** **GDPR** **issues** **and** **this** **is** **how** **I** **put** **that** **into** **practice** **here.** **
+
+32:19The** **hearing** **message** **relay.** **Excellent.** **One** **thing** **we** **do** **see** **missing** **from** **lots** **of** **students** **initiation** **doctrines** **is** **those** **goals** **and** **objectives.** **
+
+32:32We** **often** **see** **a** **goal.** **We** **don't** **often** **see** **objectives.** **They** **are** **different.** **Your** **goal** **is** **from** **stingula.** **It** **can** **be** **more** **than** **one.** **Most** **people** **only** **know** **one.** **I** **say** **trying** **to** **keep** **this** **one.** **It** **is** **a** **large** **high** **level** **statement** **of** **what** **this** **project** **hopes** **to** **achieve.** **
+
+32:52Yes,** **this** **Platform** **is** **going** **to** **do** **this** **as** **large** **as** **possible.** **
+
+32:59Your** **objectives** **are** **a** **little** **bit** **smaller.** **They** **are** **more** **specific.** **They're** **not** **quite** **user** **stories,** **but** **they** **are** **almost** **similar** **to** **that.** **
+
+33:08One** **objective** **would** **be** **that** **a** **home** **user** **should** **be** **able** **to** **simply** **log** **in** **and** **learn** **about** **recent** **types** **of** **signs.** **
+
+33:21Another** **go** **like** **BRE** **to** **log** **what** **training** **they've** **done** **and** **be** **able** **to** **go** **back** **and** **revisit** **or** **visceral** **training** **when** **they** **need** **to.** **
+
+33:33Smaller** **goals,** **smaller** **objectives** **within** **the** **and** **larger** **goals.** **
+
+33:37Again,** **be** **clear** **on** **what** **your** **goal** **is,** **what** **your** **objectives** **are.** **
+
+33:42Then** **you** **can** **ask** **yourself** **that** **question** **throughout** **development.** **
+
+33:45Does** **this** **get** **us** **some** **way** **to** **achieve** **these** **objectives?** **
+
+33:50Pull** **this** **goal.** **If** **yes,** **great.** **Carry** **on.** **If** **no,** **question** **it.** **Yeah,** **use** **them** **to** **your** **advantage.** **Obviously** **having** **a** **clear** **idea** **about** **who** **your** **client,** **your** **audience** **is** **helps** **understand.** **
+
+34:12How.** **Do** **you** **think** **that's** **a** **ganta?** **Hear** **me.** **It** **is** **not** **set** **in.** **Because** **it** **helps** **us** **understand.** **This** **is** **perfectly** **fine.** **Take** **your** **own** **project.** **Break** **it** **down** **into** **your** **deliverables.** **One** **might** **be** **back** **end,** **one** **might** **be** **front** **end,** **one** **might** **be** **document.** **
+
+34:45You** **find** **a** **report,** **you** **decide** **what** **your** **deliverables** **are** **basically** **projects** **or** **might** **break** **down** **slightly** **differently.** **
+
+34:54Break** **those** **deliverables** **down.** **As** **I** **said** **earlier,** **do** **not** **just** **say** **develop** **back.** **That's** **all** **the** **information** **you** **got** **that** **is** **not** **helpful** **to** **you.** **
+
+35:03But** **make** **sure** **you** **understand** **yourself.** **Break** **it** **down.** **What** **does** **develop** **backend** **actually** **entail?** **What** **are** **the** **activities** **tasks** **needed** **for** **those?** **Assign** **timing** **lengths** **at** **the** **lengths** **of** **time** **you** **are** **giving** **yourself** **to** **do** **that.** **
+
+35:22It** **helps** **you** **define** **your** **sprints.** **Yes.** **It** **also** **helps** **you** **understand** **how** **long** **things** **take.** **
+
+35:30Ultimately** **this.** **You'll** **have** **it** **correct** **from** **day** **one** **and** **every** **day** **after** **that.** **
+
+35:36It** **should** **be** **correct.** **The** **addition** **should** **be** **going** **back** **to** **updated** **as** **being** **subt.** **
+
+35:43You** **will** **now** **impersonate.** **So** **if** **it** **shuts** **you** **should** **be** **keeping** **this** **up** **to** **date** **in** **reality** **because** **it** **allows** **you** **to** **understand** **where** **your** **actual** **data** **point** **is.** **
+
+35:55Have** **your** **end** **now** **you** **do** **get** **a** **comb** **of** **it** **score** **because** **you** **overran.** **
+
+35:59What** **does** **that** **mean?** **Project.** **You** **now** **have** **out** **functionality** **because** **your** **nail** **prediction** **is** **you're** **going** **to** **overrun.** **
+
+36:09Yeah,** **we've** **done** **it** **up.** **Start** **early** **thinking** **about** **what** **the** **critical** **and** **the** **non** **critical** **elements** **are.** **
+
+36:16Critical** **elements** **should** **be** **at** **the** **beginning** **of** **the** **development.** **
+
+36:20Nice** **to** **have** **left** **handle** **at** **the** **end** **so** **that** **things** **are** **getting** **a** **little** **wrong.** **
+
+36:25Yes,** **that** **is** **perfectly** **fine.** **That** **is** **what** **I** **would** **call** **a** **robot.** **It's** **an** **idea** **of** **when** **you** **are** **going** **to** **be** **doing** **certain** **things.** **
+
+36:36This** **is** **a** **ganttra.** **This** **is** **actually** **a** **gantt** **chart.** **A** **Gantt** **chart** **has** **lines** **of** **dependencies** **between** **events,** **between** **activities.** **
+
+36:46You** **can't** **start** **A,** **you** **can't** **start** **B** **until** **you've** **completed** **A.** **
+
+36:51So** **it** **gives** **you** **an** **understanding** **of** **how** **things** **lie** **to** **each** **other.** **
+
+36:55There** **is** **obviously** **overlap** **and** **things** **like** **that** **where** **you** **can** **start** **certain** **activities** **without** **the** **previous** **one** **finishing.** **
+
+37:01But** **again** **it** **helps** **you** **understand** **the** **process** **that** **you** **need** **to** **go** **through.** **
+
+37:05I** **can't** **start** **working** **this** **part** **of** **the** **UI** **until** **this** **thing** **is** **done.** **
+
+37:10Yeah.** **Having** **that** **indicates** **in** **some** **shape** **or** **form** **it** **helps** **you** **understand.** **
+
+37:14Actually** **I** **don't** **panic** **about** **that** **bit** **yet** **because** **I** **can't** **do** **that** **for** **three** **weeks.** **
+
+37:20That's** **stress.** **I** **don't** **need** **worrying** **about.** **I** **need** **focus** **on** **this** **bit.** **So** **I'm** **going** **to** **get** **it** **done.** **To** **be** **able** **to** **do** **all** **of** **that** **just** **revelation** **this** **now** **get** **it** **right.** **
+
+37:28The** **other** **one** **that's** **useful** **to** **have** **to** **learn** **from** **the** **Gant** **is** **three** **marble** **stones** **on** **your** **timeline.** **
+
+37:37What** **are** **your** **monsters?** **You** **project** **this** **one** **last** **day** **deadlines** **another** **one** **showcase.** **
+
+37:47These** **are** **all** **last** **days.** **These** **are** **all** **set** **by** **us.** **Right.** **Getting** **straight** **on** **there.** **What** **other** **last** **days** **do** **you** **have?** **If** **you** **cannot** **do** **any** **of** **this** **part** **of** **its** **relevant** **until** **the** **back** **end** **is** **done.** **
+
+38:01One** **of** **your** **milestones** **is** **going** **to** **be** **likely** **to** **be** **finalization** **and** **delivery** **of** **your** **back** **end** **sessions.** **
+
+38:10Work** **out** **what** **your** **milestones** **are.** **You've** **got** **goals,** **target** **dates** **before** **hitting.** **Gives** **you** **a** **little** **bit** **of** **pressure** **to** **hit** **those** **dates.** **
+
+38:18Keeps** **you** **self** **motivated,** **keeps** **you** **moving** **forward.** **
+
+38:22Also** **helps** **us** **understand** **what** **used** **it** **worked** **and** **looked** **like.** **
+
+38:27Allows** **us** **then** **to** **be** **a** **supervision** **meeting.** **Okay.** **You're** **saying** **finish** **you're** **tracked.** **What** **you** **need** **to** **do** **to** **get** **on** **track** **for** **that.** **If** **you're** **not** **he** **can** **ask** **you** **those** **questions.** **We** **can** **help** **support** **you** **when** **we** **need** **to.** **Yeah.** **It's** **all** **part** **of** **that** **transparency** **at** **the** **beginning** **of** **this** **session.** **
+
+38:49Yeah.** **If** **you've** **not** **known** **there** **are** **different** **software** **you** **can** **use** **technically** **the** **Gantt** **chart** **software** **Microsoft** **other** **Excel** **is** **programming** **believe** **it's** **better** **than** **nothing.** **
+
+39:01As** **I** **said** **it** **is** **a** **useful** **tool.** **There** **are** **also** **softwares** **available.** **See** **these** **slides** **will** **be** **available** **after** **the** **lecture.** **
+
+39:07Do** **log** **on.** **If** **you** **want** **to** **create** **something** **in** **there.** **It's** **a** **really** **useful** **tool** **to** **use** **that** **helps** **us** **understand** **where** **we're** **going.** **
+
+39:15The** **final** **thing** **I** **want** **to** **mess** **up** **five,** **six** **minutes** **long** **is** **the** **pause.** **
+
+39:21I** **hope** **everybody** **in** **the** **group** **recognizes** **that** **some** **shape** **or** **form.** **
+
+39:31Every** **single** **project** **should** **now** **follow** **that** **in** **some** **way.** **
+
+39:36We** **start** **over.** **We** **then** **analyze,** **make** **sure** **we've** **done** **correctly.** **
+
+39:41We** **then** **Design** **it,** **we** **implement** **it.** **Doing** **these** **projects.** **Let's** **ignore** **maintenance** **for** **now.** **Notice** **the** **thing** **that** **is** **up** **here.** **Number** **five,** **test** **move.** **This** **should** **be** **a** **continual** **process.** **Quite** **often** **when** **you** **have** **followed** **the** **software** **development** **life** **cycle,** **you've** **done** **it** **in** **the** **lens** **of** **a** **whole** **project.** **
+
+40:04You** **want** **to** **see** **that.** **You** **have** **the** **planning** **phase.** **Now** **we** **have** **against** **the** **design** **fires.** **If** **we're** **going** **to** **have** **next** **where** **you** **start** **pulling** **together,** **you** **might** **learn** **some** **visuals** **and** **things** **like** **that.** **
+
+40:16Then** **you're** **going** **to** **move** **into** **development** **phase.** **
+
+40:19You** **actually** **know** **to** **design,** **start** **writing** **and** **code.** **
+
+40:21Then** **you're** **going** **to** **test** **it,** **then** **you're** **going** **to** **deliver** **it** **to** **the** **end.** **
+
+40:24Great.** **You've** **gone** **through** **it** **once.** **Fantastic.** **That** **is** **not** **how** **it** **works** **in** **real** **world.** **Every** **sprint** **technically** **goes** **through** **that** **cycle.** **
+
+40:35You** **have** **a** **planning** **face** **at** **Sprint.** **You** **have** **a** **phase** **for** **that** **spring,** **you** **have** **a** **testing** **phase** **that** **spring,** **delivery** **for** **that** **spring** **and** **guess** **what?** **
+
+40:45The** **next** **big** **st.** **You** **start** **the** **whole** **process** **again.** **
+
+40:49Remember** **that** **because** **we** **see** **so** **many** **students** **learning** **projects** **where** **testing** **is** **done** **month,** **six** **or** **seven,** **a** **few** **weeks** **before** **delivery,** **then** **that's** **what** **you** **tell** **us** **in** **your** **report.** **
+
+41:05But** **I** **bet** **you** **do** **more** **testing** **than** **that.** **Naturally.** **You've** **just** **created** **the** **login** **page.** **You** **enter** **a** **test** **user,** **does** **it** **go** **to** **the** **database?** **Guess** **what?** **You** **just** **got** **a** **text** **and** **it** **went** **to** **the** **database.** **Functional** **text.** **When** **you** **then** **write** **another** **20,** **30** **lines** **of** **code,** **you** **go** **back** **and** **check** **that** **login** **page** **still** **works,** **don't** **you?** **
+
+41:27Because** **you** **guarantee** **it** **probably** **hasn't** **issues.** **
+
+41:30Done** **something,** **missed** **your** **car** **or** **something** **out** **in** **front.** **
+
+41:33You** **go** **back** **and** **say** **guess** **what?** **You've** **just** **changed.** **You** **doing** **this** **naturally.** **So** **be** **very,** **very** **aware** **of** **it.** **You** **should** **talk** **about** **it.** **That** **shows** **that** **you** **are** **developing** **something** **and** **thinking** **about** **the** **quality** **of** **it.** **
+
+41:48Because** **you** **are** **doing** **that** **testing,** **you're** **ensuring** **that** **it** **continues** **to** **work** **as** **begun.** **
+
+41:55Yes.** **So** **you** **don't** **do** **testing** **at** **the** **very** **end.** **You** **do** **testing** **the** **whole** **way** **through.** **On** **testing.** **We** **do** **have** **a** **date** **leash** **in** **your** **daily.** **If** **not,** **I'll** **put** **it** **on** **there.** **We'll** **have** **the** **last** **year** **we** **had** **the** **usability** **testing** **session** **up** **in** **SMGY** **three** **in** **sort** **of** **March** **time.** **
+
+42:14We've** **rearranged** **that** **for** **this** **year** **again.** **So** **again** **some** **options.** **You** **guys** **can** **get** **some** **feedback** **on** **your** **projects.** **Good** **thing** **for** **our** **testing.** **So** **when** **I** **say** **quality** **as** **I** **mean** **in** **terms** **of** **testing** **as** **in** **does** **it** **meet** **the** **requirements** **we** **have** **set** **ourselves** **do?** **
+
+42:42If** **you** **have** **your** **functional** **requirements** **and** **non** **functional** **requirements,** **are** **you** **able** **to** **to** **tick** **every** **Single** **one** **folks** **off.** **
+
+42:50Have** **you** **demonstrated** **I** **done** **some** **form** **of** **test** **that** **demonstrates** **you** **have** **here** **each** **of** **those** **functional** **non** **functional** **environments.** **
+
+42:59You** **tick** **them** **all.** **You** **probably** **process** **you** **probably** **positive** **but** **even** **stack** **so** **as** **your** **investigation** **Notice** **the** **word** **standards** **in** **there.** **
+
+43:12That** **is** **also** **legal** **as** **well.** **Yes.** **If** **you** **are** **creating** **the** **how** **is** **collective** **personal** **data** **being** **aware** **of** **GDPR** **and** **data** **protection** **fantastic.** **
+
+43:22Making** **clear** **you're** **aware** **of** **it.** **Even** **better** **boosting** **and** **making** **sure** **you've** **done** **some** **design** **and** **out** **demonstrate** **you've** **applied** **and** **conformed** **to** **the** **standard** **set** **by** **that** **law.** **
+
+43:34Even** **better.** **Yes.** **Talk** **about** **it.** **Yes.** **If** **you** **don't** **tell** **us** **you** **have** **done** **it.** **We** **are** **not** **mindbrains.** **We** **are** **all** **magicians.** **All** **we** **see** **is** **intelligence.** **It's** **not** **obvious** **in** **the** **knows.** **How** **do** **we** **know** **you've** **done** **this?** **How** **do** **we** **know** **you've** **gone** **through** **that** **thought** **process** **Left** **put** **back** **in.** **
+
+44:00These** **are** **just** **some** **of** **the** **quality** **factors** **that** **we** **can** **use** **within** **soft** **red** **coloring.** **
+
+44:09I'm** **not** **expecting** **you** **to** **do** **all** **of** **these** **and** **access** **for** **every** **single** **one** **of** **these.** **
+
+44:14This** **is** **just** **an** **idea** **of** **some** **benchmarks** **you** **can** **use** **to** **understand** **your** **work.** **
+
+44:20So** **site** **security** **students,** **you** **know** **what's** **that** **security?** **
+
+44:25Like** **how** **have** **we** **got** **a** **test** **that** **demonstrates** **but** **we** **are** **secure** **for** **all** **of** **you.** **
+
+44:30If** **you're** **using** **a** **use** **a** **login** **page.** **Have** **you** **got** **tests** **or** **some** **form** **of** **demonstration** **that** **shows** **it's** **a** **secure** **login** **I.** **E.** **Your** **password** **to** **have.** **
+
+44:46You** **put** **maintenance** **in** **place.** **So** **lots** **of** **students** **build** **things** **modularly.** **Yeah,** **they** **build** **it** **in** **early** **charts.** **So** **the** **way** **it** **means** **you** **take** **my** **training** **platform** **from** **earlier,** **it** **means** **that** **I** **can** **just** **add** **in** **because** **I've** **built** **in** **a** **certain** **way.** **
+
+45:14All** **I've** **got** **to** **do** **is** **add** **this** **and** **I've** **got** **a** **whole** **new** **training** **module.** **
+
+45:19I** **got** **two,** **three,** **four,** **five** **of** **those.** **It's** **infinitely** **stable.** **Yeah.** **It's** **instantly** **flexible.** **Yeah.** **Think** **of** **your** **presence.** **Think** **about** **how** **you** **can** **do** **this.** **Right.** **This** **interesting** **find.** **There** **are** **a** **lot** **of** **lots** **of** **code** **checking** **tools** **out** **there** **that** **look** **for** **errors** **in** **code.** **
+
+45:38Don't** **want** **to** **be** **bugging** **in.** **Are** **they** **not** **exactly** **the** **tasks** **that** **the.** **Yes.** **Downstream.** **Again,** **if** **we're** **using** **tools** **like** **that,** **be** **clear** **that** **you're** **using** **why** **you're** **using** **them,** **pros** **and** **the** **cons** **of** **using** **them.** **
+
+45:52But** **also** **in** **the** **end** **that** **you** **should** **be** **able** **to** **defend** **that** **word.** **
+
+45:57And** **so** **they're** **going** **to** **say** **I** **did** **things** **in** **this** **way** **because** **with** **strong** **justification** **and** **strong** **pointers** **that** **you** **have** **done** **that** **in** **a** **methodical** **Process.** **
+
+46:09You** **haven't** **just** **done** **it** **because** **you** **went.** **Yeah,** **I'll** **put** **it** **that** **way.** **You've** **done** **it** **because** **of** **a** **reason.** **You** **have** **that** **reason.** **You** **give** **us** **that** **reason.** **That** **shows** **us** **the** **quality** **shows** **that** **you** **have** **developed** **something** **that** **means** **those** **paper.** **
+
+46:25Firstly,** **I** **why** **everybody** **is** **one** **of** **the** **main** **thr** **everybody's** **reports.** **
+
+46:29That's** **why** **I've** **mentioned** **it.** **They** **do** **test** **and** **just** **at** **the** **end.** **Yes,** **testing** **is** **a** **sign** **of** **quality.** **You** **lose** **more** **marks** **if** **you** **don't** **talk** **about** **testing** **than** **you** **do** **in** **other** **sections.** **
+
+46:42Yes,** **don't** **please** **mention** **testing.** **Mention** **quality.** **These** **are** **things** **we** **are** **looking** **for.** **This** **should** **be** **completely** **decided.** **This** **is** **the** **side** **that** **you** **should** **have** **just** **the** **last** **one** **minute.** **
+
+46:53Our** **ethical** **approval.** **We** **have** **a** **project** **level** **ed** **approval.** **Project** **level** **multi** **level** **approval.** **That** **means** **you** **individually** **do** **not** **have** **to** **have** **ethical** **approval** **for** **your** **projects.** **
+
+47:04Obviously** **open** **for** **testing** **because.** **You** **ideally** **want** **to** **use** **users** **to** **help** **contest** **this** **users** **successfully** **making** **it** **very** **clear** **you** **can** **only** **use** **over** **18s.** **
+
+47:22No.** **Under** **18s** **no** **one** **is** **classified** **as** **vulnerable.** **Okay.** **They** **are** **two** **hard** **and** **fast** **rules.** **You** **cannot** **break** **the** **other** **one** **you** **have** **not** **gray** **area** **here.** **
+
+47:36Friends,** **family,** **staff** **and** **students.** **Along** **the** **link** **we** **define** **as** **friends** **of** **friends,** **family,** **students** **and** **staff.** **
+
+47:48They** **are** **equal** **rules.** **You** **must** **let** **the** **names** **of** **the** **contact** **information** **email** **address** **of** **those** **people** **that** **you** **are** **talking** **to.** **
+
+48:00So** **you** **can** **have** **a** **record** **of** **that.** **If** **you** **include** **that** **in** **your** **report,** **it** **must** **be** **an** **online** **if** **you're** **supervised** **or** **your** **second** **mark** **can** **ask** **you** **for** **the** **list** **you** **are** **to** **provide** **that** **list.** **
+
+48:13You** **should** **be** **able** **to** **provide** **that** **list.** **That** **is** **us** **nowadays** **you** **verify** **you** **have** **actually** **spoken** **to** **us** **in** **these** **people.** **
+
+48:19You** **haven't** **just** **gone** **yeah,** **that's** **for** **expensive** **people.** **
+
+48:21And** **this** **is** **the** **wonderful** **feedback** **they** **gave** **you.** **
+
+48:23I** **don't** **have** **to** **make** **any** **changes.** **Will** **you** **allow** **to** **verify** **all** **of** **verify** **that** **list** **but** **they** **must** **be** **longs** **in** **your** **report.** **
+
+48:31Okay.** **Do** **not** **put** **names** **in** **your** **report.** **If** **you** **are** **doing** **anything** **you** **think** **is** **slightly** **ask** **before** **you** **do** **it,** **please** **ask** **permission.** **
+
+48:47But** **it** **is** **to** **ask** **for** **forgiveness.** **In** **this** **case** **I** **have** **had** **students** **that** **have** **to** **put** **through** **academic** **affairs** **because** **they** **breached** **our** **approval** **because** **they** **didn't** **talk** **to** **us** **before** **going** **off** **and** **doing** **something.** **
+
+49:03Yes.** **So** **George** **Right.** **And** **it's** **not** **Indian** **down.** **Okay.** **Right.** **Thank** **you** **very** **much.** **Sam.** **San.** **
+
+---
+
+Made With Genio Notes | [Open Event](https://app.genio.co/notes/event/fdde9864-7a45-4db6-a489-0f3e343ef74a)
