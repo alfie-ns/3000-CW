@@ -6,7 +6,19 @@ from youtube_transcript_api import FetchedTranscriptSnippet, VideoUnavailable
 from .models import Video, TranscriptSegment
 from .transcripts import fetch_transcript
 
-# AI-assisted: generated example code with ChatGPT for unit tests; utilised to create tests' reviewed, tested and understood by me
+# 1- AI-assisted: generated example code with ChatGPT for unit tests; utilised to create tests reviewed, tested and understood by me
+
+'''
+python manage.py test:
+
+```output
+Ran 3 tests in 0.002s
+
+OK
+Destroying test database for alias 'default'...
+```
+
+'''
 
 # Create your tests here.
 
