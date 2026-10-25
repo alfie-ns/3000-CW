@@ -1,6 +1,7 @@
 from unittest.mock import patch
 
 from django.test import TestCase
+from rest_framework.test import APITestCase
 from youtube_transcript_api import FetchedTranscriptSnippet, VideoUnavailable
 
 from .models import Video, TranscriptSegment
@@ -15,6 +16,7 @@ python manage.py test:
 ```output
 fetch_transcript: Ran 3 tests in 0.002s
 youtube_id_from: Ran 1 test in 0.000s
+VideoView: Ran 2 tests in 0.007s
 
 OK
 Destroying test database for alias 'default'...
@@ -84,3 +86,35 @@ class YouTubeIdTests(TestCase):
         for link, expected in links.items(): # loop through each link and test it
             with self.subTest(link=link):
                 self.assertEqual(youtube_id_from(link), expected)
+
+
+# NOTE: Tests for POST /api/videos/, i.e., what the app gets back for each link
+
+@patch('briefs.transcripts.YouTubeTranscriptApi')  # no real YouTube calls
+class VideoEndpointTests(APITestCase):
+
+    '''
+        1- init post helper method
+        2- test new link with correctly ordered segments with captions returns 201 (Created)
+        3- test stored video returns 200 (OK) without refetching transcript
+    '''
+
+    def post(self, body):
+        return self.client.post('/api/videos/', body, format='json')
+
+    def test_new_link_returns_201_with_ordered_segments(self, api):
+        api.return_value.fetch.return_value = FAKE_CAPTIONS
+        response = self.post({'url': 'https://youtu.be/abcdefghijk'})
+
+        self.assertEqual(response.status_code, 201)
+        self.assertEqual(response.data['youtube_id'], 'abcdefghijk')
+        self.assertEqual([s['text'] for s in response.data['segments']], ['first line', 'second line'])
+        self.assertEqual(response.data['segments'][0]['end'], 3.5)
+
+    def test_stored_video_returns_200_without_refetch(self, api):
+        api.return_value.fetch.return_value = FAKE_CAPTIONS
+        self.post({'url': 'https://youtu.be/abcdefghijk'})
+        response = self.post({'url': 'https://www.youtube.com/watch?v=abcdefghijk'})  # same video, other link style
+
+        self.assertEqual(response.status_code, 200)
+        api.return_value.fetch.assert_called_once()
