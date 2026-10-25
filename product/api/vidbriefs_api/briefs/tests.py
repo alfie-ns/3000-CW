@@ -5,6 +5,7 @@ from youtube_transcript_api import FetchedTranscriptSnippet, VideoUnavailable
 
 from .models import Video, TranscriptSegment
 from .transcripts import fetch_transcript
+from .views import youtube_id_from
 
 # 1- AI-assisted: generated example code with ChatGPT for unit tests; utilised to create tests reviewed, tested and understood by me
 
@@ -12,7 +13,8 @@ from .transcripts import fetch_transcript
 python manage.py test:
 
 ```output
-Ran 3 tests in 0.002s
+fetch_transcript: Ran 3 tests in 0.002s
+youtube_id_from: Ran 1 test in 0.000s
 
 OK
 Destroying test database for alias 'default'...
@@ -56,3 +58,29 @@ class FetchTranscriptTests(TestCase):
         with self.assertRaises(VideoUnavailable):
             fetch_transcript('xxxxxxxxxxx')
         self.assertFalse(Video.objects.exists())
+
+
+class YouTubeIdTests(TestCase):
+
+    def test_link_styles(self):  # test to verify youtube_id_from correctly extracts YouTube IDs from all the different url styles
+        links = {
+            'abcdefghijk': 'abcdefghijk',
+            'https://www.youtube.com/watch?v=abcdefghijk&t=30s': 'abcdefghijk',
+            'youtube.com/watch?v=abcdefghijk': 'abcdefghijk',
+            'https://m.youtube.com/watch?v=abcdefghijk': 'abcdefghijk',
+            'https://music.youtube.com/watch?v=abcdefghijk': 'abcdefghijk',
+            'https://youtu.be/abcdefghijk?si=xyz': 'abcdefghijk',
+            'https://www.youtube.com/shorts/abcdefghijk': 'abcdefghijk',
+            'https://www.youtube.com/embed/abcdefghijk': 'abcdefghijk',
+            'https://www.youtube.com/live/abcdefghijk': 'abcdefghijk',
+            'https://youtube.com.evil.com/watch?v=abcdefghijk': None,  # lookalike host
+            'https://vimeo.com/123456': None,
+            'https://youtube.com/watch?v=short': None,
+            'https://www.youtube.com/watch': None,
+            'https://www.youtube.com/shorts/': None,
+            'https://youtu.be/': None,
+            'http://[': None,
+        }
+        for link, expected in links.items(): # loop through each link and test it
+            with self.subTest(link=link):
+                self.assertEqual(youtube_id_from(link), expected)
