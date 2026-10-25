@@ -1,3 +1,5 @@
+import re
+from urllib.parse import parse_qs, urlparse
 from xml.etree.ElementTree import ParseError
 
 from django.shortcuts import render
@@ -26,11 +28,40 @@ FETCH_ERRORS = [  # specific first, the library's catch-all last
     ((CouldNotRetrieveTranscript, ParseError), 502, 'The transcript could not be fetched; try again'),  # ParseError: malformed captions from YouTube
 ]
 
+YOUTUBE_ID = re.compile(r'[A-Za-z0-9_-]{11}')
+
+
+def youtube_id_from(url):  # watch?v=, youtu.be/, shorts/, embed/, live/ links, or a bare id
+    url = url.strip()
+    if YOUTUBE_ID.fullmatch(url):
+        return url
+    try:
+        parts = urlparse(url if '://' in url else f'https://{url}')
+    except ValueError:  # e.g. an unclosed '[' host
+        return None
+    host = (parts.hostname or '').removeprefix('www.').removeprefix('m.')
+    path = parts.path.strip('/').split('/')  # '/shorts/x' -> ['shorts', 'x'], i.e., first element indicates type of YouTube URL
+
+    if host == 'youtu.be': # short link that works on app-derived URL
+        candidate = path[0]
+    elif host in ('youtube.com', 'music.youtube.com') and path[0] == 'watch': # standard watch URL with 'v' query parameter
+        candidate = parse_qs(parts.query).get('v', [''])[0] 
+    elif host == 'youtube.com' and path[0] in ('shorts', 'embed', 'live') and len(path) > 1: # standard web URL for shorts, embed, or live videos
+        candidate = path[1]
+    else:
+        return None
+    return candidate if YOUTUBE_ID.fullmatch(candidate) else None
+
+
 class VideoView(APIView):
 
     def post(self, request):
-        youtube_id = request.data.get('youtube_id', '') # extract youtube_id from request data of 'youtube_id' in POST request
-        stored = Video.objects.filter(youtube_id=youtube_id, segments__isnull=False).exists()  # checked first, as fetch_transcript stores it
+        url = request.data.get('url') if isinstance(request.data, dict) else None  # a JSON list body has no .get
+        youtube_id = youtube_id_from(url) if isinstance(url, str) else None
+        if not youtube_id: # catch non-youtube links
+            return Response({'detail': 'Not a YouTube link'}, status=400)
+
+        stored = Video.objects.filter(youtube_id=youtube_id, segments__isnull=False).exists()  # checked first; fetch_transcript stores it
 
         try:
             video = fetch_transcript(youtube_id) # use transcripts.py's fetch_transcript def(ined) function to store video's transcript segments in 'video'
