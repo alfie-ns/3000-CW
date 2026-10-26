@@ -1,8 +1,13 @@
 from unittest.mock import patch
+from xml.etree.ElementTree import ParseError
 
 from django.test import TestCase
+from requests import ConnectionError
 from rest_framework.test import APITestCase
-from youtube_transcript_api import FetchedTranscriptSnippet, VideoUnavailable
+from youtube_transcript_api import (
+    AgeRestricted, FetchedTranscriptSnippet, InvalidVideoId, IpBlocked, NoTranscriptFound,
+    PoTokenRequired, TranscriptsDisabled, VideoUnavailable,
+)
 
 from .models import Video, TranscriptSegment
 from .transcripts import fetch_transcript
@@ -18,6 +23,7 @@ fetch_transcript: Ran 3 tests in 0.002s
 youtube_id_from: Ran 1 test in 0.000s
 VideoView: Ran 2 tests in 0.007s
 VideoView (400, 422): Ran 2 tests in 0.010s
+VideoView (error codes): Ran 1 test in 0.006s
 
 OK
 Destroying test database for alias 'default'...
@@ -137,3 +143,23 @@ class VideoEndpointTests(APITestCase):
 
         self.assertEqual(response.status_code, 422)
         self.assertIn('detail', response.data)
+
+    def test_fetch_errors_map_to_status_codes(self, api):  # each failure the app must show, never a 500
+        cases = [
+            (InvalidVideoId('abcdefghijk'), 400),
+            (VideoUnavailable('abcdefghijk'), 404),
+            (TranscriptsDisabled('abcdefghijk'), 422),
+            (NoTranscriptFound('abcdefghijk', ['en'], None), 422),
+            (AgeRestricted('abcdefghijk'), 422),
+            (IpBlocked('abcdefghijk'), 503),
+            (ConnectionError(), 503),
+            (PoTokenRequired('abcdefghijk'), 502),  # falls through to the catch-all
+            (ParseError(), 502),
+        ]
+        for error, code in cases:
+            with self.subTest(error=type(error).__name__):
+                api.return_value.fetch.side_effect = error
+                response = self.post({'url': 'abcdefghijk'})
+                self.assertEqual(response.status_code, code)
+                self.assertIn('detail', response.data)
+        self.assertFalse(Video.objects.exists())
