@@ -17,6 +17,7 @@ python manage.py test:
 fetch_transcript: Ran 3 tests in 0.002s
 youtube_id_from: Ran 1 test in 0.000s
 VideoView: Ran 2 tests in 0.007s
+VideoView (400, 422): Ran 2 tests in 0.010s
 
 OK
 Destroying test database for alias 'default'...
@@ -118,3 +119,21 @@ class VideoEndpointTests(APITestCase):
 
         self.assertEqual(response.status_code, 200)
         api.return_value.fetch.assert_called_once()
+
+    def test_bad_input_returns_400_without_calling_youtube(self, api): # test various bad inputs and ensure YouTube API is not called
+        for body in [{'url': 'https://vimeo.com/123456'}, {'url': 'https://evil.com/watch?v=abcdefghijk'}, {'url': ''}, {}, {'url': 42}, ['not', 'a', 'dict']]:
+            with self.subTest(body=body): # test each bad input individually, e.g. is url valid, and not empty
+                response = self.post(body)
+                self.assertEqual(response.status_code, 400)
+                self.assertIn('detail', response.data)
+
+        response = self.client.post('/api/videos/', 'not json', content_type='application/json')
+        self.assertEqual(response.status_code, 400)  # DRF's own errors share the 'detail' key
+        api.return_value.fetch.assert_not_called()
+
+    def test_empty_transcript_returns_422(self, api): # ensure empty-captioned video gives 422; TODO: this might change later down the dev line, however it is difficult to find a video that is not at least auto-transcribed
+        api.return_value.fetch.return_value = []
+        response = self.post({'url': 'abcdefghijk'}) # mocked non-caption video
+
+        self.assertEqual(response.status_code, 422)
+        self.assertIn('detail', response.data)
